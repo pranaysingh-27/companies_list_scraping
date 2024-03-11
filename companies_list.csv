@@ -1,0 +1,2001 @@
+,name,rating,reviews,benefits
+0,TCS,3.8,73.8k,11.6k
+1,Accenture,4.0,46.8k,7.1k
+2,Cognizant,3.9,42.1k,5.8k
+3,Wipro,3.8,39.6k,5k
+4,Capgemini,3.9,34.3k,4k
+5,HDFC Bank,4.0,34.2k,3.2k
+6,ICICI Bank,4.0,33.8k,3.8k
+7,Infosys,3.8,32.1k,5.2k
+8,HCLTech,3.7,28.8k,4.1k
+9,Tech Mahindra,3.7,27.9k,3.6k
+10,Genpact,3.9,26.4k,3.7k
+11,Axis Bank,3.9,22.2k,2.2k
+12,Teleperformance,3.6,22.1k,2k
+13,Concentrix Corporation,3.9,22k,3.3k
+14,Jio,4.0,20.8k,2.6k
+15,Amazon,4.1,20.7k,4.2k
+16,IBM,4.1,19.8k,2.7k
+17,Reliance Retail,4.0,19k,2k
+18,HDB Financial Services,4.0,18.3k,1.5k
+19,Larsen & Toubro Limited,4.1,16.8k,2.9k
+20,Vodafone Idea,4.2,15.5k,2.1k
+21,BYJU'S,3.1,14.7k,1.9k
+22,Kotak Mahindra Bank,3.8,14.4k,1.3k
+23,Deloitte,3.9,14k,2.5k
+24,Reliance Industries,4.1,13.8k,1.9k
+25,iEnergizer,4.6,13.5k,523
+26,Bharti Airtel,4.1,12.3k,1.6k
+27,Tata Motors,4.2,10.6k,1.7k
+28,WNS,3.5,9.8k,1.4k
+29,Flipkart,4.1,9.4k,1.5k
+30,IndusInd Bank,3.7,9.3k,801
+31,Ernst & Young,3.6,9k,1.3k
+32,AU Small Finance Bank,4.5,8.8k,488
+33,Mahindra & Mahindra,4.2,8.7k,1.3k
+34,Infosys BPM,3.8,8.4k,1.2k
+35,DXC Technology,3.8,8.4k,1.2k
+36,IDFC FIRST Bank,4.0,8.2k,721
+37,Conneqt Business Solutions,3.7,7.9k,809
+38,LTIMindtree,3.7,7.8k,852
+39,HDFC Life,4.1,7.8k,646
+40,Bajaj Finserv,4.1,7.6k,751
+41,Mphasis,3.5,7.1k,880
+42,PwC,3.6,7k,868
+43,HSBC Group,4.1,6.8k,1.2k
+44,Startek,3.2,6.8k,723
+45,Hinduja Global Solutions,4.0,6.8k,1k
+46,Samsung,4.1,6.7k,562
+47,Ericsson,4.3,6.6k,1k
+48,Maruti Suzuki,4.3,6.6k,1.1k
+49,Shriram Finance,4.1,6.5k,47
+50,Asian Paints,4.1,6.4k,905
+51,Yes Bank,3.9,6.4k,628
+52,Cipla,4.1,6.2k,895
+53,Sutherland Global Services,3.7,6k,941
+54,Dr. Reddy's,4.2,6k,883
+55,Paytm,3.5,6k,582
+56,Bandhan Bank,3.8,6k,532
+57,UltraTech Cement,4.2,6k,654
+58,EXL Service,3.8,5.9k,859
+59,NTT DATA,4.0,5.9k,775
+60,ICICI Prudential Life Insurance,4.1,5.7k,636
+61,Bajaj Finance,4.1,5.7k,524
+62,Jana Small Finance Bank,3.9,5.6k,621
+63,Lupin,4.1,5.5k,821
+64,Indian Army,4.7,5.4k,761
+65,HCL Group,3.7,5.4k,698
+66,Quess,4.0,5.3k,461
+67,Tata Steel,4.2,5.3k,677
+68,L&T Infotech,3.8,5.3k,899
+69,Wells Fargo,4.1,5.2k,903
+70,Zydus Lifesciences,4.1,5.2k,689
+71,Delhivery,4.0,5.2k,664
+72,Amazon Development Centre India,4.2,5.2k,55
+73,L&T Construction,4.1,5.1k,824
+74,JPMorgan Chase & Co.,4.1,5.1k,908
+75,Sun Pharmaceutical Industries,4.2,5k,637
+76,Hindustan Unilever,4.3,5k,691
+77,FIS,3.9,5k,785
+78,ITC,4.0,4.9k,721
+79,Udaan,4.0,4.8k,787
+80,Hexaware Technologies,3.7,4.8k,589
+81,IIFL Finance,4.0,4.8k,438
+82,JSW Steel,4.0,4.8k,627
+83,Ujjivan Small Finance Bank,4.1,4.6k,599
+84,Muthoot Finance,3.6,4.5k,337
+85,Max Life Insurance,4.2,4.5k,513
+86,Aurobindo Pharma,4.0,4.4k,494
+87,Tata Projects,4.3,4.4k,562
+88,KPMG India,3.6,4.4k,783
+89,Shapoorji Pallonji Group,4.2,4.4k,657
+90,Oracle,3.8,4.4k,641
+91,Home Credit Finance,4.1,4.4k,632
+92,eClerx,3.5,4.3k,587
+93,Apollo Hospitals,4.1,4.3k,524
+94,Ashok Leyland,4.1,4.3k,679
+95,Siemens,4.2,4.2k,665
+96,Omega Healthcare,3.8,4.2k,413
+97,JLL,4.2,4.2k,573
+98,Megha Engineering & Infrastructures,4.0,4.2k,562
+99,Vivo,4.1,4.2k,666
+100,First Source,3.8,4.1k,603
+101,JustDial,3.6,4.1k,385
+102,Bajaj Allianz Life Insurance,4.1,4k,487
+103,Hero MotoCorp,4.2,4k,607
+104,OPPO,4.0,4k,649
+105,Mahindra Finance,4.3,4k,511
+106,Standard Chartered,3.9,3.9k,331
+107,DMart,4.0,3.9k,484
+108,Coforge,3.5,3.9k,328
+109,Cyient,3.8,3.9k,491
+110,BigBasket,4.0,3.9k,443
+111,ICICI Lombard General Insurance Company,3.8,3.9k,378
+112,Indiamart Intermesh,3.6,3.9k,444
+113,CGI Group,4.1,3.8k,429
+114,Virtusa Consulting Services,3.8,3.8k,347
+115,Equitas Small Finance Bank,4.4,3.7k,403
+116,TVS Motor,4.1,3.7k,542
+117,Manappuram Finance,4.0,3.7k,266
+118,GlobalLogic,3.7,3.7k,556
+119,Ekart Logistics,4.1,3.6k,365
+120,UST,3.9,3.6k,454
+121,SBI Cards & Payment Services,3.8,3.6k,349
+122,Hewlett Packard Enterprise,4.3,3.6k,630
+123,Atos Syntel,3.6,3.6k,548
+124,Bosch Global Software Technologies,4.1,3.6k,721
+125,Nagarro,4.1,3.6k,1.2k
+126,IQVIA,4.1,3.6k,553
+127,Cholamandalam Investment & Finance,4.1,3.6k,315
+128,SMFG India Credit,4.1,3.5k,349
+129,Bosch,4.3,3.5k,632
+130,Reliance Communications,4.0,3.5k,376
+131,BNY Mellon,4.1,3.5k,554
+132,Schneider Electric,4.2,3.5k,492
+133,L&T Technology Services,3.4,3.5k,461
+134,Hyundai Motor,4.4,3.5k,569
+135,Amdocs,4.0,3.4k,687
+136,Oyo Rooms,3.4,3.4k,393
+137,CBRE,4.3,3.4k,482
+138,State Bank of India,3.9,3.4k,409
+139,Swiggy,3.9,3.4k,367
+140,JBM Group,4.0,3.4k,393
+141,BT Group,4.1,3.3k,312
+142,SBI Life Insurance Company,3.9,3.3k,334
+143,Ecom Express,4.1,3.3k,335
+144,Optum,4.0,3.3k,569
+145,Dell,4.2,3.3k,566
+146,Nagarjuna Construction Company,4.2,3.3k,417
+147,Bajaj Auto,3.9,3.3k,562
+148,KEC International,4.1,3.2k,453
+149,Future Group,4.3,3.2k,421
+150,Piramal Capital Housing Finance,4.2,3.2k,270
+151,Aditya Birla Fashion and Retail,4.2,3.2k,428
+152,Muthoot Fincorp,4.1,3.2k,282
+153,Royal Enfield,4.3,3.1k,416
+154,L&T Finance,4.0,3.1k,270
+155,Viatris,4.3,3k,528
+156,Tata Communications,4.2,3k,435
+157,Samvardhana Motherson Group,3.8,3k,415
+158,Intas Pharmaceuticals,4.2,3k,408
+159,LG Electronics,4.1,3k,417
+160,Varun Beverages,4.1,3k,331
+161,John Deere,4.3,3k,432
+162,Kogta Financial India Limited,4.8,3k,51
+163,Persistent Systems,3.8,3k,407
+164,Godrej & Boyce Manufacturing,3.9,2.9k,430
+165,Randstad,3.9,2.9k,342
+166,Thermax Limited,4.2,2.9k,389
+167,Hetero Drugs,3.9,2.9k,343
+168,Deutsche Bank,4.1,2.9k,424
+169,Havells,4.1,2.9k,333
+170,Macleods Pharmaceuticals,3.8,2.9k,370
+171,CARS24,3.7,2.9k,426
+172,Team Lease,4.0,2.8k,225
+173,Sodexo,4.1,2.8k,384
+174,Subros,4.0,2.8k,415
+175,Abbott,4.1,2.8k,384
+176,VE Commercial Vehicles,4.1,2.8k,375
+177,Indian Oil Corporation,4.5,2.8k,312
+178,Whitehat jr,3.5,2.8k,973
+179,Ford Motor,4.5,2.8k,398
+180,Tata Capital,4.2,2.8k,108
+181,Automatic Data Processing (ADP),4.1,2.8k,479
+182,Bharat Electronics,4.2,2.7k,327
+183,Cummins,4.4,2.7k,477
+184,ITC Infotech,3.7,2.7k,301
+185,Access Healthcare,4.0,2.7k,285
+186,R1 RCM,4.0,2.7k,375
+187,American Express,4.3,2.7k,450
+188,Alembic Pharmaceuticals,4.0,2.7k,399
+189,Pidilite Industries,4.4,2.7k,370
+190,UnitedHealth,4.1,2.7k,438
+191,Tata AIA Life Insurance,4.1,2.7k,309
+192,Hindalco Industries,4.3,2.7k,346
+193,Alkem Laboratories,4.0,2.6k,347
+194,Publicis Sapient,3.6,2.6k,413
+195,Aakash Educational Services,3.6,2.6k,219
+196,Atos,3.8,2.6k,365
+197,DCB Bank,3.9,2.6k,253
+198,Utkarsh Small Finance Bank,4.0,2.6k,273
+199,Hindustan Coca Cola Beverages,4.3,2.6k,389
+200,Indian Air Force,4.7,2.6k,376
+201,Vishal Mega Mart,3.8,2.6k,275
+202,Barclays,4.0,2.6k,285
+203,Berger Paints,3.8,2.6k,291
+204,Glenmark Pharmaceuticals,4.0,2.6k,331
+205,Marpu Foundation,4.9,2.5k,91
+206,Ipca Laboratories,4.0,2.5k,266
+207,Jindal Steel and Power,4.0,2.5k,330
+208,Bank of America,4.4,2.5k,433
+209,Maersk,4.3,2.5k,447
+210,DTDC Express,3.8,2.5k,269
+211,ABB Group,4.1,2.5k,359
+212,24/7 Customer,3.6,2.5k,440
+213,Aarti Industries,4.2,2.5k,386
+214,Wipro Infotech,4.0,2.5k,299
+215,Honda Motorcycle & Scooter,4.2,2.5k,373
+216,Carelon Global Solutions,4.0,2.5k,52
+217,Johnson Controls,3.7,2.5k,301
+218,HDFC Ergo General Insurance,4.1,2.5k,279
+219,NatWest Group,4.0,2.5k,378
+220,CMS IT Services,3.2,2.5k,197
+221,PolicyBazaar,3.5,2.5k,242
+222,MRF Tyres,3.8,2.5k,377
+223,Cogent E Services,3.4,2.5k,232
+224,RBL Bank,3.8,2.5k,225
+225,Paras Hospital,4.6,2.5k,154
+226,Reliance Nippon Life Insurance,3.9,2.5k,235
+227,Reliance Digital,4.3,2.4k,278
+228,PNB MetLife,3.5,2.4k,230
+229,Jubilant Foods Works,3.9,2.4k,188
+230,Wipro Consumer Care & Lighting,3.9,2.4k,287
+231,Escorts Kubota Limited,4.1,2.4k,277
+232,GeBBS Healthcare Solutions,3.7,2.4k,304
+233,Ceat Tyres,4.1,2.4k,366
+234,Kotak Mahindara Life Insurance,3.9,2.4k,273
+235,Dabur,3.8,2.4k,281
+236,Axis Direct,3.9,2.4k,227
+237,Conduent,3.6,2.4k,386
+238,JK Cement,4.2,2.4k,260
+239,InterGlobe Aviation,3.6,2.4k,321
+240,Synechron,3.7,2.3k,284
+241,Shoppers Stop,4.1,2.3k,329
+242,Birlasoft,3.8,2.3k,243
+243,ACC,3.9,2.3k,283
+244,HARMAN,3.8,2.3k,127
+245,Lenskart,3.3,2.3k,214
+246,ArcelorMittal Nippon Steel,4.1,2.3k,125
+247,Reliance SMSL,4.0,2.3k,284
+248,GATI-KWE,4.0,2.3k,291
+249,Indiabulls Home Loans,3.9,2.3k,122
+250,PepsiCo,4.2,2.3k,262
+251,KPIT Technologies,3.6,2.3k,308
+252,UPL,4.2,2.3k,325
+253,S&P Global,4.2,2.3k,238
+254,Torrent Pharmaceuticals,3.9,2.3k,336
+255,Dilip Buildcon,4.0,2.2k,298
+256,RSPL Group,4.2,2.2k,308
+257,Titan Company,4.4,2.2k,353
+258,Tech Mahindra Business Services,3.5,2.2k,335
+259,Square Yards,3.9,2.2k,284
+260,TVS Credit,4.5,2.2k,208
+261,Wipro Enterprises Ltd,3.9,2.2k,445
+262,Tata AIG,4.2,2.2k,249
+263,EY Global Delivery Services ( EY GDS),3.7,2.2k,168
+264,Aditya Birla Sun Life Insurance,4.2,2.2k,218
+265,Bajaj Electricals,4.1,2.2k,304
+266,IDFC FIRST Bharat,4.6,2.2k,78
+267,Alstom Transportation,3.9,2.2k,190
+268,Statestreet HCL Services,3.3,2.2k,219
+269,IGT Solutions,3.4,2.2k,241
+270,Afcons Infrastructure,4.4,2.2k,317
+271,Apollo Tyres,4.1,2.2k,341
+272,Simplex Infrastructures,3.3,2.1k,291
+273,Mankind Pharma,4.1,2.1k,255
+274,Domino's Pizza,4.0,2.1k,393
+275,Suzlon Group,4.2,2.1k,362
+276,Zensar Technologies,3.8,2.1k,275
+277,Capita,3.8,2.1k,340
+278,Flex,4.2,2.1k,456
+279,State Street Corporation,3.8,2.1k,281
+280,KocharTech,4.1,2.1k,606
+281,Max Healthcare,4.2,2.1k,253
+282,Huawei Technologies,4.0,2.1k,303
+283,Bajaj Allianz General Insurance,4.0,2.1k,247
+284,McDonald's,4.2,2.1k,422
+285,I Process Services,3.9,2.1k,132
+286,Tata Technologies,3.8,2.1k,328
+287,Croma,4.1,2.1k,195
+288,Taj Hotels Resorts and Palaces,4.2,2.1k,179
+289,HDFC Sales,4.1,2.1k,199
+290,Grasim Industries,4.1,2.1k,262
+291,ElasticRun,3.4,2.1k,235
+292,Landmark Group,4.1,2k,279
+293,Nestle,4.2,2k,328
+294,UNO Minda,4.1,2k,278
+295,Walmart,4.0,2k,361
+296,Lava International,4.1,2k,306
+297,AGS Health,4.0,2k,283
+298,Nokia,4.2,2k,544
+299,Blue Dart Express,4.1,2k,237
+300,Patanjali Ayurved,4.1,2k,262
+301,Tractors and Farm Equipment,4.1,2k,291
+302,G4S,4.1,2k,239
+303,Capgemini Engineering,3.6,2k,159
+304,Fortis Healthcare,4.1,2k,144
+305,State Street Syntel,3.7,2k,289
+306,Societe Generale,3.9,2k,308
+307,BlackBuck,3.9,2k,249
+308,Britannia,4.1,2k,259
+309,TVS Supply Chain Solutions,4.0,2k,202
+310,Fiserv,3.7,2k,332
+311,Micro Labs,3.7,1.9k,217
+312,KFintech,3.6,1.9k,54
+313,Voltas,4.1,1.9k,258
+314,Sterlite Technologies,3.8,1.9k,222
+315,Shree Cement,4.1,1.9k,232
+316,Exide Industries,3.6,1.9k,248
+317,Kyndryl,4.1,1.9k,178
+318,Ola Cabs,3.5,1.9k,243
+319,Yazaki,3.9,1.9k,265
+320,Radisson Hotels,4.1,1.9k,315
+321,Himalaya Wellness,4.2,1.9k,271
+322,Dalmia Bharat Cement,4.1,1.9k,239
+323,Quest Global,3.7,1.9k,206
+324,Lifestyle,4.4,1.9k,291
+325,IKS Health,3.6,1.9k,240
+326,Eureka Forbes,3.9,1.9k,230
+327,Ajanta Pharma,4.1,1.9k,220
+328,ACT Fibernet,4.1,1.8k,259
+329,Blue Star,4.1,1.8k,248
+330,XpressBees,3.8,1.8k,183
+331,Aditya Birla Group,4.1,1.8k,247
+332,Extramarks Education,3.5,1.8k,152
+333,Motilal Oswal Financial Services,3.8,1.8k,183
+334,Sonalika Tractors,3.8,1.8k,185
+335,Nokia Networks,4.3,1.8k,24
+336,DS Group,4.1,1.8k,223
+337,Life Insurance Corporation of India,4.4,1.8k,245
+338,Mahindra Rural Housing Finance,4.1,1.8k,184
+339,Cholamandalam MS General Insurance,3.9,1.8k,168
+340,Zomato,3.7,1.8k,224
+341,Mahindra Logistics,4.1,1.8k,223
+342,Delhi Public School,3.9,1.8k,269
+343,Indus Towers,4.0,1.8k,210
+344,PVR Cinemas,4.1,1.8k,251
+345,Future Retail,4.3,1.8k,259
+346,JMC Projects,4.2,1.8k,265
+347,Rivigo,3.9,1.8k,242
+348,SRF,4.3,1.8k,277
+349,Emcure Pharmaceuticals,3.8,1.8k,247
+350,Myntra,4.0,1.8k,316
+351,V-Mart,4.3,1.8k,218
+352,Ninjacart,4.1,1.8k,146
+353,Parle Agro,4.2,1.8k,221
+354,Kalpataru Power Transmission,4.2,1.8k,209
+355,Datamatics Global Services,3.6,1.8k,194
+356,Movate,3.5,1.7k,19
+357,Kansai Nerolac Paints,3.9,1.7k,197
+358,Renault-Nissan,4.1,1.7k,271
+359,Pfizer,4.1,1.7k,283
+360,Tata Teleservices,4.1,1.7k,261
+361,Fujitsu,3.9,1.7k,201
+362,Mahindra Holidays & Resorts,3.6,1.7k,205
+363,VVDN Technologies,3.7,1.7k,147
+364,Indian Railways,4.2,1.7k,170
+365,MSN Laboratories,3.8,1.7k,182
+366,BHEL,4.1,1.7k,218
+367,KPMG Global Services,3.7,1.7k,22
+368,3i Infotech,3.6,1.7k,156
+369,Raymond,4.1,1.7k,242
+370,Reliance Trends,4.3,1.7k,224
+371,ICICI Securities,3.8,1.7k,188
+372,Ambuja Cements,4.0,1.7k,217
+373,Cybage,4.0,1.7k,293
+374,Blinkit,3.9,1.7k,204
+375,JCB,4.0,1.7k,252
+376,Cadila Pharmaceuticals,3.5,1.7k,185
+377,Info Edge,4.0,1.7k,290
+378,suzuki motor gujarat,4.3,1.7k,198
+379,Shell,4.3,1.6k,270
+380,GlaxoSmithKline Pharmaceuticals,4.1,1.6k,125
+381,Foundever,3.8,1.6k,225
+382,Poonawalla Fincorp,3.9,1.6k,134
+383,ZS,3.5,1.6k,286
+384,Whirlpool,4.1,1.6k,210
+385,Bharat Petroleum,4.2,1.6k,195
+386,PhonePe,4.1,1.6k,193
+387,Tata Elxsi,4.0,1.6k,214
+388,Endurance Technologies,3.9,1.6k,245
+389,Jindal Stainless,4.3,1.6k,206
+390,Force Motors,3.6,1.6k,171
+391,NoBroker,3.3,1.6k,361
+392,Fincare Small Finance Bank,4.1,1.6k,151
+393,GVK Emergency Management and Research Institute,3.7,1.6k,187
+394,ITC Hotels,4.2,1.6k,202
+395,Syngene International,4.0,1.6k,241
+396,Shahi Exports,4.1,1.6k,241
+397,Kalyan Jewellers,4.7,1.6k,59
+398,Delphi TVS,4.1,1.6k,205
+399,Bharti AXA Life Insurance,3.9,1.6k,175
+400,Sobha,4.0,1.6k,217
+401,Brakes India,4.1,1.6k,210
+402,Lodha group,4.1,1.6k,201
+403,HCL Infosystems,4.0,1.6k,230
+404,Care Health Insurance,3.7,1.6k,177
+405,Aavas Financiers,4.0,1.6k,138
+406,Sterling & Wilson,4.1,1.6k,211
+407,Citicorp,3.8,1.6k,277
+408,Dhani Loans and Services,3.9,1.6k,50
+409,Bureau Veritas,4.0,1.6k,182
+410,CAMS,3.7,1.6k,59
+411,Sopra Steria,4.0,1.6k,266
+412,KENT RO Systems,4.1,1.6k,117
+413,Gallagher,3.9,1.6k,128
+414,Unacademy,3.3,1.5k,165
+415,Varroc Group,3.8,1.5k,153
+416,Coromandel International,4.1,1.5k,229
+417,Future Generali India Life Insurance,3.8,1.5k,167
+418,Allsec Technologies,4.1,1.5k,134
+419,Canara HSBC Life Insurance,3.8,1.5k,171
+420,Cisco,4.4,1.5k,240
+421,Tata Motors Finance,4.1,1.5k,155
+422,Power Mech Projects,3.9,1.5k,167
+423,RMSI,3.8,1.5k,186
+424,café Coffee day,4.0,1.5k,178
+425,Star Health & Allied Insurance,3.9,1.5k,171
+426,Adani Wilmar,4.2,1.5k,177
+427,Gabriel India,4.2,1.5k,254
+428,IntouchCX,3.0,1.5k,158
+429,JK Tyres,3.8,1.5k,195
+430,KIA MOTORS,3.9,1.5k,185
+431,Straive,3.5,1.5k,129
+432,DBS Bank,3.9,1.5k,194
+433,Lucas-TVS,4.0,1.5k,224
+434,Bank of Baroda,3.6,1.5k,155
+435,Sify Technologies,4.0,1.5k,158
+436,Planet Spark,3.8,1.5k,211
+437,Laurus Labs,4.2,1.5k,225
+438,ValueLabs,3.9,1.5k,289
+439,Hero FinCorp,4.2,1.5k,137
+440,Hindustan Aeronautics,4.4,1.5k,178
+441,Adani Power,4.0,1.5k,171
+442,Indian Navy,4.6,1.5k,252
+443,ABC,3.9,1.5k,87
+444,upGrad,3.9,1.5k,145
+445,Parle Products,4.0,1.5k,207
+446,Thomson Reuters,4.2,1.4k,234
+447,Akums Drugs & Pharmaceuticals,4.1,1.4k,160
+448,ESAF Microfinance & Investments (P),3.9,1.4k,109
+449,Taurus BPO Services,4.6,1.4k,524
+450,AECOM,4.3,1.4k,254
+451,Uflex,3.8,1.4k,123
+452,Intellect Design Arena,4.1,1.4k,187
+453,SAP,4.3,1.4k,313
+454,CMA CGM,4.1,1.4k,229
+455,TVS Sundram Fasteners,3.8,1.4k,213
+456,Citibank,4.0,1.4k,214
+457,Cargill,4.2,1.4k,160
+458,Google,4.4,1.4k,142
+459,IDBI Bank,3.7,1.4k,141
+460,Microsoft Corporation,4.1,1.4k,221
+461,SGS,4.0,1.4k,191
+462,Honda,4.2,1.4k,211
+463,Dr Lal PathLabs,4.2,1.4k,199
+464,Reliance General Insurance,3.9,1.4k,135
+465,Novartis,4.1,1.4k,242
+466,Renault Nissan Technology & Business Centre India,3.9,1.4k,236
+467,Optum Global Solutions,4.1,1.4k,182
+468,TCE,3.8,1.4k,169
+469,L&T Energy Hydrocarbon,3.9,1.4k,204
+470,Kotak Securities,3.7,1.4k,156
+471,Meesho,3.7,1.4k,288
+472,Narayana Health,4.2,1.4k,144
+473,AXA Business Services,3.8,1.4k,171
+474,Big Bazaar,4.3,1.4k,192
+475,Honeywell Automation,3.8,1.4k,165
+476,Xoriant,3.9,1.4k,436
+477,YASH Technologies,3.8,1.4k,179
+478,Spark Minda,3.9,1.4k,43
+479,SBI General Insurance,3.9,1.4k,139
+480,BA Continuum,4.3,1.4k,304
+481,Wockhardt,3.9,1.4k,183
+482,Apollo Pharmacy,3.9,1.4k,128
+483,MetLife,4.3,1.4k,244
+484,Vedantu,3.4,1.4k,163
+485,CMS Infosystems,3.7,1.4k,102
+486,Tata Play,4.1,1.4k,184
+487,Philips,3.9,1.4k,189
+488,NCR Corporation,4.1,1.4k,185
+489,Aragen Life Sciences,4.1,1.4k,331
+490,Niva Bupa Health Insurance Company,3.7,1.4k,125
+491,Biological E,4.3,1.4k,231
+492,Vardhman Fabrics,4.1,1.4k,151
+493,G R Infraprojects,4.2,1.4k,166
+494,Frankfinn Institute of Air Hostess Training,4.0,1.4k,193
+495,Crisil,3.7,1.4k,238
+496,Safexpress,4.2,1.4k,150
+497,Exl India,3.6,1.3k,170
+498,Innovsource Services,4.0,1.3k,127
+499,Microland,3.6,1.3k,165
+500,Panasonic Life Solutions,4.1,1.3k,106
+501,Allstate,4.0,1.3k,207
+502,Amazon Transportation Services,4.2,1.3k,260
+503,SBI Securities,3.9,1.3k,109
+504,PHN Technology,4.6,1.3k,25
+505,R.R. Donnelley,4.1,1.3k,--
+506,Metro Cash & Carry,4.2,1.3k,169
+507,Angel One,3.9,1.3k,155
+508,Matrimony.com,4.4,1.3k,86
+509,SS&C TECHNOLOGIES,3.6,1.3k,205
+510,Bharat Financial Inclusion,4.1,1.3k,187
+511,Bhushan Power & Steel,4.0,1.3k,170
+512,Reckitt Benckiser,4.0,1.3k,180
+513,CitiusTech,3.5,1.3k,171
+514,Motherson Automotive Technologies and Engineering,4.0,1.3k,166
+515,Procter & Gamble,4.2,1.3k,171
+516,Adecco Group,3.8,1.3k,138
+517,USV,4.1,1.3k,182
+518,XL Dynamics,3.2,1.3k,211
+519,Yamaha Motor,4.2,1.3k,187
+520,Aditya Birla Capital,4.0,1.3k,166
+521,Dainik Bhaskar Group,4.4,1.3k,154
+522,Cavinkare,4.0,1.3k,147
+523,HERE Technologies,3.8,1.3k,297
+524,USHA International,4.2,1.3k,162
+525,Mercedes-Benz Research & Development India,4.0,1.3k,227
+526,Team Computers,3.7,1.3k,123
+527,NTPC,4.3,1.3k,183
+528,KONE,4.3,1.3k,198
+529,Isgec Heavy Engineering,3.9,1.3k,144
+530,PI Industries,4.2,1.3k,173
+531,Mother Dairy Fruit & Vegetable,4.2,1.3k,159
+532,DHL Supply Chain,4.3,1.3k,148
+533,Torrent Power,3.8,1.3k,165
+534,DIVI'S Laboratories,3.9,1.3k,179
+535,Oberoi Group of Hotels,4.2,1.3k,226
+536,Honeywell Technology Solutions,3.9,1.3k,214
+537,Honda Cars,4.4,1.3k,200
+538,Chegg,4.2,1.3k,93
+539,Sigma Electric Manufacturing Corporation,4.0,1.3k,220
+540,Johnson & Johnson,4.2,1.3k,190
+541,Haier Appliances India,4.1,1.3k,183
+542,Max Fashion,4.2,1.2k,177
+543,Credit Suisse,4.2,1.2k,177
+544,Saint-Gobain,4.1,1.2k,257
+545,Arvind Group,4.1,1.2k,298
+546,Jindal Saw,4.0,1.2k,198
+547,Verizon,4.2,1.2k,213
+548,Paisabazaar.com,3.7,1.2k,97
+549,Hyatt Regency,4.2,1.2k,198
+550,Daikin,4.2,1.2k,147
+551,Star Union Dai-ichi Life Insurance,3.9,1.2k,100
+552,Tata Communications Transformation Services,4.2,1.2k,173
+553,V-Guard Industries,4.4,1.2k,272
+554,Medi Assist India,3.8,1.2k,142
+555,DHL Express,4.1,1.2k,179
+556,Exela Technologies,3.6,1.2k,79
+557,Globiva,3.2,1.2k,96
+558,Haldiram Foods,4.0,1.2k,101
+559,FactSet,4.0,1.2k,208
+560,HDFC Securities,3.7,1.2k,134
+561,Tata Group,4.3,1.2k,116
+562,Nuvoco Vistas,4.3,1.2k,132
+563,CG Power and Industrial Solutions,3.9,1.2k,224
+564,Piramal Group,4.0,1.2k,192
+565,Medanta the Medicity,4.2,1.2k,153
+566,Aadhar Housing Finance,4.1,1.2k,104
+567,UBS,3.8,1.2k,143
+568,Orange Business,4.3,1.2k,248
+569,Hindustan Petroleum,4.2,1.2k,152
+570,Relaxo Footwear,4.3,1.2k,147
+571,BNP Paribas,3.9,1.2k,188
+572,Photon Interactive,3.9,1.2k,167
+573,FirstCry,3.8,1.2k,86
+574,First American Corporation,3.9,1.2k,161
+575,Morgan Stanley,3.7,1.2k,163
+576,NextComm Corporation,4.9,1.2k,43
+577,Aforeserve,3.5,1.2k,89
+578,Biocon Biologics,3.8,1.2k,364
+579,Oracle Cerner,3.7,1.2k,268
+580,Security and Intelligence Services (India),4.2,1.2k,142
+581,Belrise Industries,3.8,1.2k,102
+582,Aon,4.0,1.2k,205
+583,IDC Technologies,3.3,1.2k,49
+584,Emami,4.0,1.2k,132
+585,Bata,3.9,1.2k,119
+586,Exotic Learning,4.5,1.2k,183
+587,Hindustan Construction Company,4.2,1.2k,163
+588,Dell EMC,4.2,1.2k,201
+589,Fusion BPO Services,3.1,1.2k,100
+590,Toyota Kirloskar Motor,4.4,1.2k,172
+591,Marriott International,4.3,1.2k,185
+592,KFC,4.2,1.2k,157
+593,Mercer,3.8,1.2k,245
+594,Narayana Educational Society,3.7,1.2k,119
+595,Tesco,3.9,1.2k,194
+596,Faurecia,4.0,1.2k,202
+597,Trent,4.1,1.1k,136
+598,Tata Power,4.0,1.1k,149
+599,Trident Group,3.5,1.1k,133
+600,FedEx Express,4.2,1.1k,191
+601,TaskUs,3.5,1.1k,127
+602,Tata Advanced Systems,3.9,1.1k,142
+603,Ola Electric Mobility,3.3,1.1k,81
+604,Altruist Technologies,3.2,1.1k,82
+605,Iris Software,4.2,1.1k,283
+606,Veritas Finance,4.7,1.1k,42
+607,Polycab Wires,4.1,1.1k,94
+608,HTC Global Services,3.6,1.1k,111
+609,Marico,4.1,1.1k,167
+610,L.G.Balakrishnan & Bros,3.7,1.1k,131
+611,NIIT,3.6,1.1k,166
+612,Suguna Foods,4.1,1.1k,141
+613,iOPEX Technologies,3.8,1.1k,570
+614,Muthoot Group,3.7,1.1k,224
+615,Hero Motors Company,4.1,1.1k,128
+616,Infinite Computer Solutions,3.5,1.1k,106
+617,Jet Airways,4.6,1.1k,181
+618,Sony,4.4,1.1k,189
+619,Bajaj Capital,3.9,1.1k,110
+620,Krishna Maruti,4.0,1.1k,133
+621,Welspun,4.1,1.1k,154
+622,Manipal Hospitals,4.2,1.1k,136
+623,Oracle Financial Services Software,3.7,1.1k,196
+624,Pantaloons,4.2,1.1k,132
+625,Satin Creditcare Network,4.2,1.1k,132
+626,Inox Leisure,4.1,1.1k,153
+627,ISS Facility Services,4.2,1.1k,135
+628,SRL Diagnostics,4.2,1.1k,134
+629,Nayara Energy,4.3,1.1k,175
+630,ZF Commercial Vehicle Control Systems,4.0,1.1k,21
+631,TTEC India,3.8,1.1k,159
+632,Akzo Nobel India,4.1,1.1k,140
+633,Fabindia,3.9,1.1k,124
+634,J. Kumar Infraprojects,4.2,1.1k,120
+635,Biocon Limited,3.9,1.1k,13
+636,Barclays Shared Services,4.1,1.1k,192
+637,Collabera Technologies,3.5,1.1k,108
+638,Cushman & Wakefield,4.3,1.1k,138
+639,ICICI Home Finance,3.8,1.1k,89
+640,Adani Group,3.9,1.1k,110
+641,Gland Pharma,3.7,1.1k,134
+642,Daimler India Commercial Vehicles,4.2,1.1k,185
+643,VLCC,3.7,1.1k,101
+644,Redcliffe Labs,4.5,1.1k,60
+645,Panasonic,4.1,1.1k,149
+646,Supreme Industries,4.2,1.1k,120
+647,Asahi India Glass,3.9,1.1k,141
+648,Sysnet Global Technologies,3.7,1.1k,85
+649,Ashoka Buildcon,4.1,1.1k,129
+650,ITD Cementation India,4.3,1.1k,144
+651,Jindal X,3.6,1.1k,166
+652,JioMart,3.9,1.1k,78
+653,Annapurna Finance,4.1,1.1k,126
+654,TCS iON,3.9,1.1k,185
+655,Aye Finance,4.2,1.1k,121
+656,Chandigarh University,4.5,1.1k,105
+657,NeoSOFT,3.8,1.1k,133
+658,Godrej Group,4.0,1.1k,163
+659,Shadowfax Technologies,3.6,1.1k,83
+660,Granules India,3.9,1.1k,172
+661,Ocwen Financial Solutions,4.2,1.1k,170
+662,GMR Group,4.1,1k,189
+663,Aptara,3.4,1k,114
+664,Heritage Foods,4.2,1k,143
+665,Adani Ports and SEZ,3.9,1k,143
+666,Sanofi,4.4,1k,153
+667,MiraMed Ajuba,4.0,1k,154
+668,Compass Group Support Services,4.1,1k,148
+669,GE,4.3,1k,211
+670,Bharat Forge,3.9,1k,122
+671,HighRadius,3.0,1k,95
+672,Canara Bank,3.4,1k,98
+673,Spicejet,3.5,1k,156
+674,Caterpillar Inc,4.3,1k,143
+675,EPAM Systems,3.8,1k,146
+676,Bharat FIH,4.0,1k,58
+677,Spinny,3.9,1k,108
+678,Unisys,3.8,1k,157
+679,Broadridge Financial Solutions,4.0,1k,143
+680,GE Vernova,4.2,1k,8
+681,NSE.IT,3.6,1k,123
+682,Sharekhan,4.0,1k,119
+683,Evalueserve,3.5,1k,144
+684,Edelweiss,3.8,1k,132
+685,AB InBev India,3.5,1k,161
+686,Xiaomi,3.9,1k,135
+687,Vfs Global Services,3.7,1k,124
+688,Lumax Industries,4.0,1k,133
+689,Steel Strips Wheels,3.8,1k,131
+690,Amity University,3.6,1k,127
+691,IFB,3.8,1k,65
+692,Bisleri,4.2,1k,152
+693,Unichem Laboratories,4.0,1k,133
+694,Indoco Remedies,3.7,1k,117
+695,Pine Labs,3.8,1k,119
+696,Sagility,3.9,1k,45
+697,Cinépolis,4.1,1k,152
+698,NEC,4.6,1k,132
+699,CorroHealth,3.4,1k,15
+700,Aircel,4.5,1k,152
+701,Synchrony,4.4,1k,204
+702,Newgen Software Technologies,3.6,1k,166
+703,Tanishq,4.4,999,69
+704,Iffco Tokio General Insurance Co.,4.1,997,117
+705,Physicswallah,3.9,997,24
+706,Punjab National Bank,4.1,993,96
+707,Iksula,3.7,989,109
+708,Jakson Group,4.5,989,106
+709,Northern Trust Operating Services,4.1,986,226
+710,Fino Payments Bank,4.0,984,97
+711,SYSKA LED Lights,2.9,981,84
+712,LivSpace,3.5,980,107
+713,Saipem,4.1,979,154
+714,ECIL,4.1,978,110
+715,FDC,4.0,977,91
+716,Devyani International,3.8,976,125
+717,Valeo,4.1,976,140
+718,Tietoevry,4.3,975,128
+719,Health Care Global Enterprises,4.2,974,30
+720,Aditya Birla Health Insurance Co,3.9,971,91
+721,BVG India,4.1,970,100
+722,Goldman Sachs,3.6,970,110
+723,Best Sellers,4.2,968,132
+724,VMware Software,4.4,967,141
+725,Suryoday Small Finance Bank,4.1,967,87
+726,Paytm Payments Bank,4.0,966,120
+727,DISH TV,3.7,960,101
+728,AGS Transact Technologies,3.5,957,130
+729,SKF,4.0,956,158
+730,Burger King,4.0,955,136
+731,Fidelity National Financial,3.8,951,161
+732,Oil And Natural Gas Corporation,4.3,950,144
+733,Foxconn,4.1,948,211
+734,Wheelseye Technology,3.7,946,104
+735,Sheenlac Paints,4.6,945,56
+736,DENSO,4.2,943,190
+737,Sansera Engineering,4.2,940,115
+738,Apco Infratech,3.9,940,111
+739,SAI Life Sciences,3.9,939,134
+740,Clover Infotech,3.7,939,99
+741,Xyz Company,3.8,938,74
+742,ManpowerGroup,3.9,938,81
+743,Tata 1mg,3.7,936,107
+744,Shriram Pistons & Rings,4.1,935,142
+745,ANZ Banking Group,4.2,933,114
+746,QualityKiosk Technologies,3.7,932,107
+747,Schindler,4.0,930,121
+748,Gujarat Fluorochemicals,4.2,929,150
+749,Atul,4.0,929,121
+750,Nexa,4.1,929,77
+751,Vibgyor High School,3.8,929,111
+752,Fresenius Kabi,4.2,928,125
+753,The Jaypee Group,3.9,928,115
+754,Dixon Technologies,4.2,927,120
+755,Vestas,4.3,926,144
+756,Amneal Pharmaceuticals,4.3,926,145
+757,Altisource,3.6,925,144
+758,Amara Raja Energy & Mobility,4.3,922,120
+759,FOCUS EDUMATICS,3.4,922,46
+760,Eureka Outsourcing Solutions,3.1,922,90
+761,K12 Techno Services,3.0,921,63
+762,Luminous Power Technologies,4.2,921,125
+763,Indegene,3.6,919,130
+764,iSON Xperiences,3.6,918,95
+765,Wistron,3.9,916,150
+766,Infogain,3.7,915,142
+767,Hitachi Astemo,4.0,915,136
+768,CreditAccess Grameen,4.3,915,71
+769,TELUS International Philippines,3.8,915,44
+770,Tata AutoComp Systems,3.9,915,106
+771,GAIL,4.5,914,93
+772,Medhaj Techno Concept,4.3,913,168
+773,Patanjali Foods,4.0,911,109
+774,IndiaFirst Life Insurance,4.2,909,104
+775,Videocon d2h,3.9,909,102
+776,Tenneco,3.8,908,126
+777,Kantar,3.7,906,82
+778,Johnson Lifts,4.1,905,95
+779,Continental Automotive Components,4.3,905,140
+780,Infinx,3.6,904,77
+781,Eaton Corporation,4.0,904,133
+782,Jio Platforms,3.7,903,69
+783,Consolidated Contractors,4.5,902,169
+784,Wind World,3.9,900,122
+785,Bajaj Motors,4.0,900,117
+786,CSB Bank,3.4,899,46
+787,PharmEasy,3.7,898,95
+788,Piaggio,3.7,898,126
+789,AIIMS,4.2,897,68
+790,Mahindra CIE Automotive,3.8,894,92
+791,Godrej Properties,3.8,894,112
+792,Bharat Sanchar Nigam,4.0,892,100
+793,PNB Housing Finance,3.9,891,90
+794,Intertek,3.8,889,116
+795,Godrej Consumer Products,4.3,889,125
+796,Zf Rane Automotive,4.1,889,138
+797,JW Marriott,4.1,888,160
+798,TE Connectivity,4.1,888,159
+799,Gannon Dunkerley & Co.,3.8,887,117
+800,Automotive Manufacturers,4.2,886,79
+801,TUV SUD,4.0,886,99
+802,Jaquar,4.1,886,123
+803,IIFL SAMASTA,4.1,883,22
+804,Mondelez International,4.4,883,134
+805,Worley,4.1,881,127
+806,JSW Cement,4.1,880,109
+807,Sahara India Pariwar,3.8,880,107
+808,Adobe,4.1,878,175
+809,Spencer's Retail,3.9,878,99
+810,Slk Software Services,3.6,878,99
+811,Apexon,3.4,878,27
+812,Karma Ayurveda,4.5,877,33
+813,Capri Global Capital,3.7,876,39
+814,Punj Lloyd,4.3,875,140
+815,Dhoot Transmission,3.6,874,115
+816,Petrofac,4.4,871,116
+817,R Systems International,3.4,867,117
+818,Morningstar,3.9,867,126
+819,Siemens Gamesa Renewable Energy,4.1,867,106
+820,Sonata Software,3.7,866,89
+821,Hinduja Leyland Finance,4.1,865,73
+822,Hatsun Agro Product,4.0,862,108
+823,NSH,3.7,860,107
+824,Shriram Life Insurance,3.8,858,83
+825,Tikona Infinet,3.7,858,87
+826,GAO Tek,4.5,858,43
+827,Urban Company,3.6,858,111
+828,Serco,4.4,857,140
+829,Coca-Cola Company,4.3,857,102
+830,Nielsen,3.8,856,130
+831,Podar International School,4.3,854,121
+832,Viraj Profiles,3.8,854,155
+833,Thyrocare Technologies,3.5,854,96
+834,Decathlon,4.0,852,115
+835,Episource,3.8,851,84
+836,HPCL-Mittal Energy Limited,4.3,850,120
+837,iQor Global Services,3.5,849,115
+838,Strides Pharma,3.9,848,145
+839,Atos Global IT Solutions And Services,4.0,848,107
+840,OpenText Technologies,3.8,848,106
+841,Arvind Lifestyle Brands,4.2,847,2
+842,RBL FinServe,4.1,847,82
+843,Amazon Logistics,4.3,845,86
+844,Bajaj Housing Finance,3.9,844,62
+845,Airtel Payments Bank,4.2,844,116
+846,JK Lakshmi Cement,3.9,844,99
+847,Mando Automotive,3.9,844,129
+848,Kirloskar Oil Engines,4.2,844,104
+849,Sunknowledge Services,4.0,843,227
+850,PNC Infratech,4.0,839,81
+851,FastInfo,4.3,839,358
+852,iMerit,3.8,838,104
+853,MDIndia Health Insurance TPA,3.8,838,88
+854,Sri Chaitanya Educational Institutions,3.8,837,69
+855,Kendriya Vidyalaya Sangathan,4.4,835,63
+856,Shubham Housing Development Finance,4.0,835,74
+857,Onward Technologies Inc,3.2,833,46
+858,Ion Exchange India,3.9,833,91
+859,V5 Global Services,3.9,832,76
+860,Parexel International,4.0,831,127
+861,Altimetrik,3.9,830,120
+862,Jubilant Pharmova,4.0,828,118
+863,Barbeque Nation,4.0,824,120
+864,BGR Energy Systems,3.9,824,124
+865,Aarvee Associates,4.0,824,104
+866,Volkswagen,4.2,821,98
+867,Rockman Industries,3.9,819,104
+868,NTT DATA Business Solutions,3.8,819,18
+869,DCM Shriram,4.2,818,127
+870,Novo Nordisk,4.1,818,134
+871,Muthoot Microfin,4.5,817,68
+872,Jacobs Engineering Group,4.1,817,97
+873,XcelServ Solutions,4.6,815,28
+874,The Ramco Cements,4.3,814,100
+875,Intel,4.3,814,101
+876,ReNew,4.3,814,100
+877,Chetu,3.3,813,120
+878,Evision Technoserve,4.7,813,41
+879,Softenger,4.3,811,167
+880,Edelweiss Tokio Life Insurance,3.9,811,95
+881,OM Logistics,4.1,807,101
+882,1point1 Solutions,3.4,806,90
+883,Power Grid Corporation of India,4.4,806,82
+884,Lemon Tree Hotels,4.2,806,141
+885,Vertex Customer Solutions,3.6,805,89
+886,Medplus(optival Health Solutions),3.7,804,61
+887,Nippon Paint India,4.1,803,89
+888,Vistaar Finance,4.2,803,137
+889,Hyundai Mobis,3.9,798,143
+890,V2 Retail,3.6,797,90
+891,Ceasefire Industries,3.3,797,76
+892,Aerial Telecom Solutions,4.5,796,35
+893,Capacit'e Infraprojects,3.6,795,65
+894,TechnipFMC,4.0,793,111
+895,Provana,3.6,791,270
+896,Unicharm,4.2,791,112
+897,Brillio,3.5,791,84
+898,ThyssenKrupp Industries India,4.2,789,93
+899,Kotak Mahindra Prime,4.1,786,69
+900,Hindustan Zinc,3.9,785,107
+901,Nykaa,3.5,784,61
+902,Happiest Minds Technologies,3.9,783,96
+903,GEP Worldwide,3.8,782,133
+904,Hathway,3.7,782,77
+905,Dana Anand,4.2,781,130
+906,Qualcomm,3.9,781,150
+907,TEKsystems,3.5,781,86
+908,Colliers International,4.0,779,79
+909,CarDekho,3.7,779,112
+910,Intex Technologies,3.6,778,97
+911,CenturyPly,4.0,778,56
+912,ZF Steering Gear,3.8,778,105
+913,Stanza Living,3.1,778,63
+914,More Supermarket,3.9,777,59
+915,United Alliance Technology,4.9,777,99
+916,Reliance AJIO,3.8,777,102
+917,Tube Investments of India,4.0,776,60
+918,Acuity Knowledge Partners,3.5,776,87
+919,TK Elevator,4.1,775,101
+920,TradeIndia (Infocom Network Private Limited),3.4,774,59
+921,Bosch Chassis Systems,4.2,774,119
+922,Apotex Research,4.2,774,111
+923,Karur Vysya Bank,3.8,774,61
+924,Pristyn Care,3.6,774,174
+925,Feedback Infrastructure Services,3.5,773,92
+926,Secure Meters,4.1,772,108
+927,Pizza Hut,3.9,771,83
+928,Aditya Birla Finance,3.9,770,53
+929,Spandana Sphoorty Financial,3.8,770,80
+930,Imperial Auto Industries,3.8,769,69
+931,Kirloskar Brothers,4.1,769,103
+932,Colgate Palmolive,4.2,769,120
+933,Rashmi Metaliks,3.6,769,70
+934,Syngenta,4.3,768,92
+935,Kinara Capital,4.5,767,156
+936,Fidelity Investments,4.3,767,172
+937,H.G. Infra Engineering,4.4,765,93
+938,Genius Consultants,3.8,765,77
+939,Ahluwalia Contracts India,4.1,765,73
+940,H.G. Infra Engineering,4.4,765,93
+941,Pricol,4.0,764,94
+942,Sundaram Finance,4.2,764,85
+943,Tata Chemicals,4.2,762,136
+944,Dassault Systemes,4.1,762,148
+945,Nilkamal,3.9,761,84
+946,Shalby Hospitals,4.6,758,55
+947,Orchids International School,3.1,758,55
+948,PayPal,3.9,757,125
+949,Sundaram Clayton,4.1,756,93
+950,VIP Industries,4.0,754,92
+951,Gmmco,4.2,753,115
+952,FLSmidth,3.7,753,113
+953,CALIBEHR,4.1,752,61
+954,Visionet Systems,3.2,750,93
+955,SLK Global Services,3.9,750,102
+956,Incedo,3.4,750,119
+957,Fusion Microfinance,4.1,750,74
+958,eClinicalWorks,3.9,750,169
+959,Egis  India Consulting Engineers,4.1,749,106
+960,Mahindra First Choice Wheels,3.9,747,78
+961,JTEKT,4.2,746,99
+962,AstraZeneca,4.2,746,167
+963,Air India,4.1,745,119
+964,Nirma,4.3,744,124
+965,Perfetti Van Melle,4.4,744,96
+966,Next Education India,3.8,744,126
+967,MakeMyTrip,3.7,744,97
+968,KIMS Hospital,4.1,743,79
+969,LOREAL,4.1,740,106
+970,VeeTechnologies,3.8,739,81
+971,Hikal,4.1,738,88
+972,Pacific BPO,3.6,738,75
+973,Caratlane Trading,4.3,735,90
+974,MAHLE ANAND Filter Systems,4.2,731,121
+975,INDO-MIM,4.3,731,122
+976,Birla Corporation,4.2,731,86
+977,HFCL,4.2,731,88
+978,Teva Pharmaceuticals,4.2,731,137
+979,Fluor Corporation,4.3,729,12
+980,Vedanta Aluminium,3.9,728,116
+981,C&S Electric,4.0,726,95
+982,Capital Numbers Infotech,4.7,726,104
+983,SitusAMC,3.3,726,46
+984,Prodapt,3.7,726,80
+985,ICICI Prudential Mutual Fund,3.8,725,86
+986,Webhelp,3.8,722,97
+987,Patra Corporation,3.8,721,82
+988,Future Focus Infotech,3.7,720,50
+989,CADD Centre Training Services,4.1,720,94
+990,Metropolis Healthcare,4.1,720,71
+991,Troikaa Pharmaceuticals,3.8,720,84
+992,Uber,4.2,719,105
+993,Pernod Ricard,3.9,718,117
+994,Zoho,4.3,718,128
+995,Better.com,3.0,718,123
+996,Air India Sats Airport Services,3.8,716,69
+997,Orion Edutech,3.3,716,77
+998,Mu Sigma,2.9,715,123
+999,TNQ Technologies,3.7,714,80
+1000,Skill Lync,3.1,714,32
+1001,Ford Business Solutions,4.5,714,30
+1002,Otis Elevator,4.0,711,89
+1003,Thomas Cook,3.9,710,90
+1004,SBFC Finance,3.8,709,52
+1005,Wheels,4.1,706,82
+1006,C.R.I. Pumps,3.9,705,79
+1007,Neel Metal Products,4.1,704,70
+1008,GVPR Engineers,4.0,702,146
+1009,Schaeffler India,4.2,701,115
+1010,Amara Raja Group,4.2,701,109
+1011,Quest Retail Private Limited,4.5,700,247
+1012,Indira IVF Hospital,4.0,700,77
+1013,Toppr,3.5,699,98
+1014,Yashoda Hospitals,3.9,699,86
+1015,Federal Bank,4.0,697,73
+1016,Centre for Development of Advanced Computing,3.9,696,62
+1017,Huhtamaki,3.9,696,89
+1018,Suzuki Motorcycle,4.1,695,94
+1019,Bank of India,4.0,695,91
+1020,Alok Industries,3.8,695,84
+1021,Aarvi Encon,4.1,695,67
+1022,Aviva Life Insurance India,3.6,695,63
+1023,Leadec India,4.0,695,91
+1024,Pramerica Life Insurance,3.9,695,71
+1025,Test Yantra Software Solutions,3.3,694,138
+1026,Shriram General Insurance,3.7,694,54
+1027,Vertiv,4.0,693,10
+1028,Willis Towers Watson,4.0,692,101
+1029,Meril,3.9,692,75
+1030,Everest Industries,4.1,691,88
+1031,Centum Electronics,3.9,690,111
+1032,Lavender Technology,5.0,690,45
+1033,Gharda Chemicals,4.2,689,108
+1034,Napino Auto & Electronics,4.1,688,81
+1035,DLF,4.0,688,72
+1036,Grant Thornton,3.7,688,85
+1037,Dunzo,3.5,687,28
+1038,Marks & Spencer,4.1,686,121
+1039,Godrej Agrovet,4.1,685,80
+1040,Columbia Asia,4.4,685,99
+1041,Aspire Systems,4.0,684,90
+1042,Digit Insurance,4.0,683,104
+1043,Lakshmi Machine Works,4.0,683,69
+1044,THE LEELA PALACES HOTELS & RESORTS,4.1,682,108
+1045,HT Media,3.5,682,88
+1046,Zydus Wellness,3.9,682,76
+1047,Westside,4.2,682,77
+1048,Rupeek,3.8,682,55
+1049,Sykes Business Services Of India,3.5,680,220
+1050,Aparna Constructions and Estates,4.2,680,96
+1051,Parekh Integrated Services,4.1,679,93
+1052,Duck Creek Technologies,4.5,678,414
+1053,Sandhar Technologies,3.8,678,78
+1054,Bechtel,4.1,677,91
+1055,Knorr-Bremse,4.1,676,124
+1056,Allianz Technology,4.4,676,121
+1057,Greaves Cotton,4.1,676,96
+1058,KEI Industries,4.2,676,90
+1059,Natco Pharma,4.1,676,89
+1060,Star Cement,4.1,675,90
+1061,Vedanta Resources,3.8,675,101
+1062,Kohler,3.9,675,83
+1063,Panacea Biotec,4.0,674,99
+1064,Godfrey Phillips India,4.1,674,106
+1065,National Health Mission,3.7,673,54
+1066,United Breweries,3.9,673,97
+1067,Samsung Engineering,4.2,673,117
+1068,Timken,4.0,672,108
+1069,Varroc Polymers,3.9,672,84
+1070,ffreedom app,3.6,672,3
+1071,Asirvad Microfinance,4.0,671,60
+1072,Medha Servo Drives,4.3,671,110
+1073,Franklin Templeton Investments,4.2,671,81
+1074,Page Industries,4.3,669,82
+1075,Samsung Research,3.4,669,163
+1076,Atlas Copco,4.3,668,101
+1077,ValueMomentum,3.3,667,59
+1078,LEAD School,3.3,667,78
+1079,Defence Research & Development Organisation,4.5,667,87
+1080,SHYAM METALICS AND ENERGY,3.7,666,49
+1081,Astral Pipe,4.2,665,33
+1082,Greenko Group,3.9,665,98
+1083,Infra.Market,4.2,664,44
+1084,NielsenIQ,3.9,664,63
+1085,Indusind Marketing & Financial Services,4.1,662,60
+1086,Tata Consumer Products,4.0,662,67
+1087,Bayer Crop Science Vegetable Seeds,4.4,661,7
+1088,Qinecsa Solutions,2.9,661,2
+1089,Piramal Pharma,4.0,661,103
+1090,T-SYSTEMS ICT INDIA,3.9,660,96
+1091,Aristo Pharmaceuticals,4.1,658,65
+1092,Precision Techserve,3.8,658,28
+1093,Future Supply Chain Solutions,4.4,657,91
+1094,SFO Technologies,3.6,657,65
+1095,NetAmbit,3.4,657,36
+1096,Kalpataru Group,3.9,657,83
+1097,Adani Green Energy,4.2,656,80
+1098,Acme Cleantech Solutions,4.0,655,96
+1099,Galfar,4.2,653,85
+1100,Financial Software & Systems,3.8,653,63
+1101,Mswipe Technologies,3.2,652,56
+1102,Rebel Foods,3.8,652,65
+1103,Salesforce,4.2,651,114
+1104,Northern Trust,3.8,650,9
+1105,Snapdeal,3.9,650,117
+1106,Lumina Datamatics,3.5,650,52
+1107,Cult.fit,3.8,650,90
+1108,Fareportal,3.3,649,111
+1109,AtkinsRealis,4.2,648,93
+1110,Michelin,4.0,648,114
+1111,Lowe's,4.2,648,136
+1112,Innova Solutions,3.7,647,26
+1113,Velocis Systems,3.9,647,56
+1114,General Mills,4.2,646,126
+1115,City Union Bank,3.4,646,60
+1116,NBC Bearings,3.9,646,50
+1117,CNH,4.3,645,88
+1118,Quess IT Staffing Solutions,3.5,645,9
+1119,Citco,3.1,645,55
+1120,Nityo Infotech,3.2,644,48
+1121,J B Chemicals And Pharmaceuticals,3.9,643,85
+1122,NetCracker,3.1,642,95
+1123,Athena BPO,3.2,640,63
+1124,Bayer,4.2,640,133
+1125,Sanden Vikas,3.9,640,77
+1126,Karvy Stock Broking,3.6,639,72
+1127,Royal Sundaram General Insurance,4.0,638,64
+1128,GAMMON INDIA,3.9,638,74
+1129,Netscribes,2.9,638,73
+1130,Musashi Auto Parts,4.0,637,76
+1131,Prochant,4.4,637,113
+1132,Aparajitha Corporate Services,4.0,636,60
+1133,Hitachi Payment Services,3.8,635,64
+1134,DuPont,4.2,635,91
+1135,ICCS,3.3,635,49
+1136,Sandvik Asia,4.3,632,99
+1137,Border Security Force,4.6,632,85
+1138,Shilpa Medicare,3.6,632,55
+1139,Collins Aerospace,4.0,630,111
+1140,OCS Group,4.0,628,57
+1141,Artech Infosystems,3.6,628,75
+1142,Merino Industries,3.9,627,78
+1143,Temenos,3.3,627,60
+1144,Knight Frank,4.2,627,76
+1145,Jabil Circuit India,4.0,627,79
+1146,Signify,3.6,626,84
+1147,Medusind Solutions,3.9,626,102
+1148,OLX,3.8,625,116
+1149,Navayuga Engineering Company,4.1,624,90
+1150,ESL Steel,4.1,623,97
+1151,Tata Electronics,4.0,623,67
+1152,Genpact Headstrong Capital Markets,3.8,622,109
+1153,Schlumberger,4.1,622,127
+1154,Micromax Informatics,3.7,622,96
+1155,Tata Starbucks,4.3,622,112
+1156,DAV Public School,4.1,620,83
+1157,Adani Enterprises,3.9,617,83
+1158,Zepto,3.7,617,31
+1159,Mastek,3.6,616,48
+1160,HomeLane,3.5,615,66
+1161,Arohan Financial Services,4.0,614,61
+1162,Porter,4.2,614,55
+1163,Ageas Federal Life Insurance,3.7,612,69
+1164,Xebia,3.5,612,238
+1165,Volvo,4.1,610,94
+1166,Reliance Power,4.2,608,70
+1167,Quantiphi Analytics Solutions Private Limited,3.1,608,64
+1168,The Akshaya Patra Foundation,4.5,608,66
+1169,BNP Paribas India Solutions,4.0,607,116
+1170,GlaxoSmithKline Consumer Healthcare,4.5,606,85
+1171,Eveready Industries,4.0,605,87
+1172,RAMTeCH Software Solutions,3.9,604,59
+1173,Guardian India,4.2,603,98
+1174,AuthBridge Research Services,3.5,603,64
+1175,CRB Tech Solution,4.2,602,41
+1176,Amul Dairy,4.2,602,39
+1177,Rungta Mines,4.1,602,60
+1178,Dhani Services,3.5,602,8
+1179,First Advantage,3.8,601,60
+1180,Kurlon,4.3,600,91
+1181,Amphenol Interconnect,4.3,600,80
+1182,Globant,4.0,600,104
+1183,Svatantra Microfin,4.2,599,75
+1184,GirnarSoft,3.6,599,98
+1185,IMPACT Infotech,3.5,599,81
+1186,Veradigm,4.1,599,6
+1187,Steag Energy Services,4.2,598,100
+1188,Kutumbh Care,3.9,598,56
+1189,Bridge & Roof Co,3.6,598,101
+1190,Salcomp Manufacturing,4.2,598,77
+1191,Prism Johnson,4.0,598,65
+1192,GE Healthcare,4.2,597,104
+1193,TÜV NORD,3.8,597,67
+1194,Jaya Hind Industries,3.8,596,63
+1195,ICA Edu Skills,3.8,596,60
+1196,ACL Digital,3.6,595,47
+1197,NoBrokerHOOD,3.4,595,216
+1198,Deepak Fertilisers and Petrochemicals,3.9,594,83
+1199,Deccan Fine Chemicals,3.7,593,68
+1200,Bitwise Solutions,4.2,593,134
+1201,Carnival Cruise Lines,4.5,591,79
+1202,McDermott International,4.2,591,79
+1203,Transsion,4.2,590,74
+1204,Edubridge Learning,3.8,590,171
+1205,Medlife,3.7,589,61
+1206,Tata Hitachi Construction Machinery,4.1,588,81
+1207,Ashirvad Pipes,4.1,588,93
+1208,Bpo Convergence,3.6,588,36
+1209,Advik Hi Tech,3.8,588,69
+1210,Indium Software,4.1,588,66
+1211,Union Bank of India,4.1,587,70
+1212,Fractal Analytics,4.1,587,107
+1213,Simplilearn,3.2,587,52
+1214,TCNS Clothing Company,4.0,586,63
+1215,Amazon Services,4.2,585,9
+1216,Ugam Solution,3.7,583,102
+1217,L&T Power,3.9,583,107
+1218,H&M,4.0,583,75
+1219,Varthana,4.5,583,61
+1220,Times Internet,3.6,582,72
+1221,Swaraj Tractors,4.2,582,117
+1222,Baxter International,4.1,582,93
+1223,Comviva Technology,3.3,582,77
+1224,Amazon Web Services,4.0,581,81
+1225,Embibe,3.7,581,97
+1226,Silaris Informations,3.2,581,54
+1227,Telenor,4.5,580,106
+1228,Citigroup,3.8,580,57
+1229,Lumen Technologies,4.1,580,106
+1230,Flash Electronics,3.7,579,68
+1231,The Lalit,3.8,579,83
+1232,Nippon Life India Asset Management,4.7,579,28
+1233,Lea Associates South Asia,4.3,579,83
+1234,Re Sustainability Limited,4.0,578,79
+1235,IFFCO,4.1,577,89
+1236,Wipro Infrastructure Engineering,3.8,576,89
+1237,Engineers India,4.3,576,76
+1238,Rallis India,4.3,575,84
+1239,HP India,4.2,575,59
+1240,Chennai Radha Engineering Works,4.0,575,94
+1241,Primus Global Technologies,4.1,574,64
+1242,Pratap Technocrats,4.0,573,39
+1243,Rodic Consultants,4.4,573,71
+1244,Finolex Cables,3.9,573,48
+1245,CSM Technologies,4.5,573,44
+1246,Balkrishna Industries,4.1,572,48
+1247,Rico Auto Industries,3.8,572,52
+1248,Eris Lifesciences,3.9,572,77
+1249,Hitachi Systems Micro Clinic,3.9,572,73
+1250,Cogoport,3.1,571,39
+1251,Denave,3.8,571,81
+1252,MattsenKumar,3.6,571,86
+1253,Tata Cummins,4.4,570,3
+1254,Government of India,4.2,569,81
+1255,Astral Adhesives,4.1,567,60
+1256,Crowne Plaza,4.1,566,112
+1257,India Cements,3.8,566,62
+1258,Caparo Engineering India,4.0,566,66
+1259,Biba Apparels,3.9,566,65
+1260,MG Motor,4.1,565,73
+1261,PUMA,4.3,565,85
+1262,Wonder Cement,4.2,565,60
+1263,EMERSON PROCESS MANAGEMENT,4.0,565,83
+1264,Hindustan Sanitaryware & Industries,4.1,565,94
+1265,Shaktiman Tirth Agro Technology,4.3,565,90
+1266,Skipper,3.8,564,61
+1267,Indo Autotech,3.9,564,67
+1268,Central Industrial Security Force,4.5,562,81
+1269,Rohan Builders,4.2,562,64
+1270,Ups Logistics,4.1,562,84
+1271,DP World,4.1,562,65
+1272,Naukri,4.0,561,105
+1273,Redington,4.0,561,67
+1274,Integreon,3.5,560,94
+1275,Sharda Motor Industries,3.8,560,88
+1276,JSW Group,4.1,559,62
+1277,Religare,3.9,559,31
+1278,Accolite,3.5,558,120
+1279,Toyo Engineeering,3.9,558,83
+1280,Progressive Infotech,3.5,558,67
+1281,Target,4.3,558,83
+1282,KGISL,3.2,557,120
+1283,Neeyamo Enterprise Solutions,3.7,557,70
+1284,Isuzu Motors,4.0,557,96
+1285,Rane (Madras),4.0,557,66
+1286,TDK India,4.0,556,58
+1287,Investors Clinic,3.6,556,33
+1288,Nlb Services,4.0,555,73
+1289,NSB Bpo Solutions,2.9,555,38
+1290,Xceedance,3.8,555,79
+1291,Fleetguard Filters,4.2,555,60
+1292,Ramco Systems,3.4,554,66
+1293,Zuventus Healthcare,3.9,554,62
+1294,MALABAR GOLD AND DIAMONDS,4.2,553,69
+1295,VA Tech Wabag,4.0,553,89
+1296,CMS Computers Limited (INDIA),3.9,551,50
+1297,Ingram Micro,3.9,551,68
+1298,HIL,4.2,550,69
+1299,LifeCell International,3.5,550,73
+1300,Fortrea Development India Private Limited,4.1,550,58
+1301,Magna International,4.0,550,71
+1302,Ukb Electronics,4.3,550,106
+1303,SKH Metals,4.1,549,62
+1304,Bses Rajdhani Power,3.8,549,62
+1305,Tafe Motors & Tractors,4.0,548,27
+1306,FIITJEE,3.7,547,58
+1307,Icon Plc,4.1,547,62
+1308,Bharti Infratel,4.4,546,72
+1309,Sunbeam Auto,3.7,546,55
+1310,MagicBricks,3.2,546,68
+1311,Radical Minds,2.9,546,36
+1312,Innodata India Private Limited,3.2,545,54
+1313,Ivrcl Infrastructures & Projects,4.3,544,79
+1314,Unimoni,3.9,544,26
+1315,Ag Industries,4.0,544,59
+1316,Linde India,4.1,543,91
+1317,KMV Projects,4.2,543,85
+1318,IVY Comptech,4.1,543,97
+1319,uFaber,2.8,543,58
+1320,Shyam Steel Industries,3.7,543,54
+1321,HSBC Bank,4.0,542,22
+1322,MasterCard,4.1,541,105
+1323,Somany Ceramics,4.3,541,69
+1324,Ihg Group,4.0,540,100
+1325,Csc E Governance Services,3.9,540,42
+1326,JK Paper,4.0,540,75
+1327,Integra Software Services,4.0,540,45
+1328,Thriveni Earthmovers,4.0,539,88
+1329,Vijay Sales,4.2,538,60
+1330,Jain Irrigation Systems,4.0,538,52
+1331,Ienergizer BPO Services,4.2,538,51
+1332,Microtek International,3.7,537,59
+1333,Hitachi,4.1,537,66
+1334,India Shelter Finance Corporation,4.1,536,32
+1335,Epsilon,4.1,536,99
+1336,Orient Electric,4.0,536,52
+1337,National Informatics Centre,4.2,535,24
+1338,Mott MacDonald,4.3,535,49
+1339,Sintex Industries,4.1,534,55
+1340,Sun Life Financial,4.3,534,126
+1341,McKinsey & Company,4.1,533,74
+1342,Marsh McLennan,4.1,532,75
+1343,Epicenter Technologies,3.6,531,80
+1344,Rentokil Pest Control,3.8,531,73
+1345,India Japan Lighting,4.3,530,72
+1346,eTeam,3.4,530,36
+1347,Trimax IT Infrastructure Services,3.5,530,36
+1348,Royal Caribbean International,4.4,530,64
+1349,Zetwerk Manufacturing Businesses,4.0,530,58
+1350,Baroda Global Shared Services,4.0,530,29
+1351,Parag Milk Foods,4.1,529,56
+1352,Omaxe,4.0,529,54
+1353,Raychem RPG,4.0,529,100
+1354,KaaShiv InfoTech Company,4.9,528,11
+1355,Sutherland Healthcare Solutions,3.9,528,54
+1356,Greenlam Industries,4.2,527,52
+1357,Titan Eye Plus,4.3,527,59
+1358,Micro Turners,3.9,526,49
+1359,Cigniti Technologies,3.8,526,49
+1360,Deepak Nitrite,3.9,526,73
+1361,Cigniti Technologies,3.8,526,49
+1362,ACTE,4.7,525,186
+1363,Creambell,4.1,525,76
+1364,Hapag-Lloyd,4.0,524,74
+1365,Sl Lumax,3.4,524,92
+1366,Atkins,3.9,524,82
+1367,Amway India Enterprises,4.1,524,86
+1368,Lovely Professional University,3.5,524,52
+1369,Crompton Greaves Consumer Electricals,3.8,523,6
+1370,Jaro Education,2.6,522,56
+1371,EPL Limited,4.0,522,74
+1372,Bikanervala,4.0,522,63
+1373,Care Hospital,4.2,522,69
+1374,mPokket,4.3,522,16
+1375,MPS Limited,4.0,522,48
+1376,Mynd Solutions Private,3.8,521,44
+1377,Mount Litera Zee School,4.0,521,73
+1378,Experis IT,3.1,520,37
+1379,Diebold Nixdorf,3.9,519,87
+1380,Aequs,3.7,518,49
+1381,Encore Capital Group,4.1,518,86
+1382,Molex,3.9,518,63
+1383,Gayatri Projects,4.0,518,79
+1384,Vaco Binary Semantics,3.5,517,82
+1385,K Raheja Corp,4.3,517,72
+1386,Welspun World,3.8,516,93
+1387,PeopleStrong,3.5,516,43
+1388,Guidehouse,3.9,516,49
+1389,Vijaya Diagnostic Centre,4.0,516,136
+1390,Forever Living Products,4.4,515,45
+1391,Encora,3.9,515,49
+1392,Hella,4.1,515,83
+1393,CIEL HR,4.1,515,59
+1394,BASF,4.5,515,74
+1395,Medicover Hospitals,3.9,515,62
+1396,GKN,4.1,515,84
+1397,Progressive Infovision,4.3,514,73
+1398,Maveric Systems,3.7,514,85
+1399,Petpooja,4.4,514,82
+1400,Thermo Fisher Scientific,3.9,513,62
+1401,Lionbridge Technologies,3.7,513,64
+1402,Electrotherm,4.2,513,60
+1403,Ask Automotive,4.3,513,51
+1404,Alshaya Group,3.9,513,86
+1405,Tavant Technologies,3.9,512,89
+1406,Wuerth,4.0,512,75
+1407,Mindarika,3.9,512,58
+1408,ALLEN Career Institute,4.0,512,41
+1409,MAS Financial Services,3.6,512,39
+1410,OMICS International,2.6,511,60
+1411,Ramky Infrastructure,4.2,511,65
+1412,Turbo Energy,4.3,510,79
+1413,IBS Software Services,3.9,510,78
+1414,Teamware Solutions,4.2,509,42
+1415,NRB Bearings,4.2,509,68
+1416,Navitasys India,4.0,509,61
+1417,Steel Authority Of India,4.1,509,60
+1418,Wapcos,3.6,508,38
+1419,Apollo Munich Health Insurance,4.0,508,61
+1420,Wapcos,3.6,508,38
+1421,Henry Harvin Education,4.5,507,75
+1422,Quatrro,3.5,507,88
+1423,Poly Medicure,3.8,506,51
+1424,Hilton,4.4,506,68
+1425,Shivam Autotech,3.8,505,49
+1426,General Motors,4.4,505,93
+1427,Echobooom Management & Entrepreneurial Solutions,4.0,505,206
+1428,Action Construction Equipment,3.8,503,41
+1429,Apar Industries,4.1,503,50
+1430,Siemens Energy,4.2,503,70
+1431,Rackspace,3.9,503,59
+1432,Aisin Automotive Haryana,4.1,503,84
+1433,Sona Comstar,4.3,503,70
+1434,Future Lifestyle Fashion,4.1,502,83
+1435,Medreich,3.9,502,74
+1436,Freshworks,3.7,502,57
+1437,Rane Engine Valve Limited,4.0,501,63
+1438,Lambda Therapeutic Research,4.6,501,36
+1439,PrimEra Medical Technologies,3.9,500,47
+1440,Saudi Aramco,4.6,500,81
+1441,Ebix Software India,3.3,500,75
+1442,Times Group,3.9,500,77
+1443,Cloudnine Hospital,4.0,499,85
+1444,Tata Power Delhi Distribution,3.9,499,63
+1445,Karvy Data Management Services,3.8,499,128
+1446,Poorvika Mobiles,4.7,499,35
+1447,Ge India Industrial,4.3,499,4
+1448,Qualitest,3.7,498,37
+1449,Courtyard by Marriott,4.2,498,89
+1450,Indostar Capital Finance,4.5,498,33
+1451,Smollan Group,4.4,498,41
+1452,Greenply,4.0,498,48
+1453,Kothari Agritech,4.8,498,11
+1454,Dhani Healthcare,3.6,498,57
+1455,Luxoft,4.0,498,121
+1456,ShareChat,3.6,498,47
+1457,Affinity Express,3.2,497,43
+1458,Sadbhav Engineering,4.4,497,68
+1459,BankBazaar,3.4,497,64
+1460,Vastu Housing Finance,4.4,496,147
+1461,Dhanuka Agritech,3.8,496,62
+1462,Travel Food Services,3.8,496,64
+1463,Fiat India Automobiles,3.7,496,63
+1464,Apex Group,3.1,496,32
+1465,Vakrangee,3.6,496,67
+1466,Hitachi Energy,4.2,495,67
+1467,AVTEC,3.8,494,57
+1468,Sterlite Power,4.0,494,71
+1469,IDEMIA,4.1,494,76
+1470,AVEVA,4.3,494,321
+1471,TO THE NEW,3.8,493,102
+1472,Renault,4.3,492,49
+1473,Geojit Financial Services,3.7,492,50
+1474,House Of Anita Dongre,4.2,491,60
+1475,ChannelPlay,4.0,491,93
+1476,Ongc Petro Additions,4.0,491,83
+1477,Fedbank Financial Services,4.1,490,42
+1478,Credence Resource Management,3.6,490,89
+1479,Grab A Grub Services,3.9,489,33
+1480,Grab A Grub Services,3.9,489,33
+1481,Principal Global Services,4.2,489,99
+1482,Adidas,4.0,489,60
+1483,Hitachi Digital Services,3.8,489,60
+1484,Neuland Laboratories,4.1,489,73
+1485,Orient Cement,4.3,488,81
+1486,Country Holidays Inn & Suites,4.4,488,176
+1487,MothersonSumi INfotech & Designs,3.3,488,60
+1488,WSP,4.2,488,31
+1489,MOURI Tech,3.9,487,55
+1490,Venus Remedies,4.5,486,101
+1491,Psp Projects,3.9,486,42
+1492,Adani Solar,4.0,485,117
+1493,BEML,4.1,485,60
+1494,Quikr,3.8,485,56
+1495,Writer Corporation,3.8,485,32
+1496,Goodyear,3.9,485,53
+1497,SoftAge Information Technology,4.0,484,67
+1498,Jai Balaji Group,3.6,484,70
+1499,Triveni Engineering & Industries,4.1,484,60
+1500,Saud Bahwan Group,3.4,484,73
+1501,Jai Balaji Group,3.6,484,70
+1502,Expleo Solutions,3.9,484,27
+1503,V-Trans,4.1,483,56
+1504,Bisk Farm,4.0,483,47
+1505,Hilti,3.7,482,87
+1506,M3M India,4.2,481,36
+1507,Samunnati Financial Intermediation and Services,4.5,481,297
+1508,Genesys International Corporation,3.9,480,52
+1509,Mahindra Tractors,4.3,480,8
+1510,Patel Engineering,4.2,480,57
+1511,Bunge India,4.0,480,64
+1512,3M,4.3,480,63
+1513,Entrata,4.4,480,68
+1514,Updater Services,4.0,480,56
+1515,T.v. Sundram Iyengar & Sons,4.2,479,49
+1516,Amadeus,4.0,479,108
+1517,TTK Prestige,4.0,478,49
+1518,Renovision Automation Services,3.7,477,40
+1519,Allied Digital Services,3.6,477,38
+1520,RITES,4.1,477,62
+1521,Clarivate,3.9,477,53
+1522,ATS Infrastructure,3.9,476,63
+1523,HBL Power Systems,4.0,476,59
+1524,Portea Medical,4.4,476,46
+1525,TVS Electronics,3.9,476,64
+1526,Vivanta by Taj,4.2,475,75
+1527,Wipro Digital,3.6,475,80
+1528,Holiday Inn,4.2,475,74
+1529,Yatra,3.7,475,57
+1530,Quality Austria Central Asia,3.5,475,53
+1531,Y-Axis Overseas Careers,3.4,475,295
+1532,Visteon,3.9,475,49
+1533,Jyothy Laboratories,4.2,474,74
+1534,Surya Roshni,4.1,474,55
+1535,Zydus Healthcare,4.0,474,9
+1536,TCI Express,4.0,473,53
+1537,Central Reserve Police Force,4.6,473,48
+1538,Bharat Serums and Vaccines,3.9,473,65
+1539,Orient Technologies,3.8,473,42
+1540,Asb International,4.1,473,55
+1541,PPG Asian Paints,4.0,472,67
+1542,My Home Industries,4.2,472,63
+1543,Okaya Power,3.8,472,46
+1544,Qatar Airways,4.3,472,67
+1545,Saint Gobain Glass,4.0,472,4
+1546,Zee Entertainment Enterprises,3.8,472,50
+1547,Rane NSK Steering Systems,4.1,472,71
+1548,United Colors of Benetton,4.5,471,68
+1549,Centum Learning,3.8,471,67
+1550,Veritas,4.1,470,83
+1551,Inox Wind,3.7,470,71
+1552,Forbes Marshall,4.1,470,55
+1553,Nephroplus,4.0,469,39
+1554,HRH Next Services,3.2,469,54
+1555,Avalon Technologies,3.9,469,47
+1556,Housing.com,3.9,468,70
+1557,Lohia Group,3.7,468,52
+1558,Vadilal Industries,4.1,468,65
+1559,_VOIS,4.1,468,13
+1560,Metso Outotec,4.3,467,75
+1561,Victora Group,3.9,466,48
+1562,CARE,4.4,466,84
+1563,Kissht Finance,4.1,466,51
+1564,Livpure,4.0,466,47
+1565,Keventer,4.0,465,63
+1566,Kellogg,4.4,465,75
+1567,Educomp Solutions,3.5,465,48
+1568,Doosan Power Systems,4.1,465,83
+1569,Jubilant Generics,4.1,465,74
+1570,Mahindra Automotives,4.2,465,35
+1571,St. Xavier's High School,3.9,464,47
+1572,Syneos Health,4.1,464,49
+1573,McNally Bharat Engineering,4.3,464,59
+1574,Revent Group,4.0,464,3
+1575,Family Health Plan,3.9,463,36
+1576,UnitedLex,3.2,462,63
+1577,JM Financial,3.7,461,34
+1578,Marlabs,3.4,461,54
+1579,Medley Pharmaceuticals,4.1,461,43
+1580,Akal Information Systems,4.1,461,30
+1581,RR kabel,4.1,460,46
+1582,Genus Power Infrastructures,4.0,460,50
+1583,Medtronic,4.0,460,69
+1584,Sri Chaitanya Techno Schools,4.0,460,--
+1585,Testbook.com,3.7,460,23
+1586,Yokogawa,3.7,460,83
+1587,Bluestream Software Solution,4.7,460,91
+1588,Emami Agrotech,3.9,459,56
+1589,Gestamp,3.7,458,69
+1590,CTS Consulting & Technical Support,3.8,458,75
+1591,HLL Lifecare,3.8,458,43
+1592,Essjay Ericsson,4.2,457,60
+1593,Carborundum Universal,4.1,457,62
+1594,Mitsubishi Electric,4.2,457,65
+1595,JK Tech,3.8,457,32
+1596,Wipro PARI,3.6,457,26
+1597,ALTEN,3.8,457,45
+1598,Casagrand,4.0,456,37
+1599,Vestige,4.3,456,83
+1600,Reliance Smart,4.3,456,27
+1601,Army Public School,4.4,455,56
+1602,Dodsal Engineering & Construction,4.4,454,72
+1603,Tiger Analytics,3.5,454,29
+1604,Voltech,3.7,453,58
+1605,Levi Strauss & Co.,4.5,453,65
+1606,Nomura Holdings,3.9,453,96
+1607,BDO India LLP,3.6,452,42
+1608,Fiem Industries,3.8,452,55
+1609,The Times of India,4.0,452,54
+1610,Shriram Automall,3.9,452,116
+1611,Coal India,4.1,452,73
+1612,CDK Global,3.6,452,74
+1613,Fidelity International,4.2,452,99
+1614,London Stock Exchange Group,4.1,452,55
+1615,DealShare,3.4,452,37
+1616,eMids Technologies,3.7,452,69
+1617,Metriqe Solutions,4.3,451,39
+1618,Suma Soft,3.9,451,43
+1619,Utility Powertech,4.0,450,38
+1620,Accel Frontline,3.9,450,44
+1621,Shriram Housing Finance,3.9,450,43
+1622,Amul India,4.3,449,2
+1623,Nvidia,4.1,449,73
+1624,Varun Motors,4.1,449,55
+1625,BSH Home Appliances Group,4.1,449,11
+1626,Rockwell Automation,4.1,449,78
+1627,Xerox,3.9,448,3
+1628,le méridien,4.1,448,64
+1629,Quislex Legal Services,3.9,447,69
+1630,Satya MicroCapital,3.8,447,48
+1631,NTT,4.0,447,65
+1632,Schindler Group,3.8,447,81
+1633,Eicher Motors,4.2,447,43
+1634,Vaaman Engineers,3.9,447,60
+1635,Central Public Works Department,4.4,447,50
+1636,Ramboll,4.3,446,68
+1637,Khazana Jewellery,3.9,446,60
+1638,Licious,3.9,445,88
+1639,Offshore Infrastructures,4.2,445,59
+1640,NecLife,3.7,445,55
+1641,Hetero Healthcare,3.6,445,47
+1642,InternEzy,5.0,445,99
+1643,LanceSoft,3.2,444,41
+1644,Lear Corporation,4.1,444,71
+1645,Centaur Pharmaceuticals,3.5,444,45
+1646,GlobalData,3.6,444,61
+1647,Hi Tech Gears,3.9,444,70
+1648,Foray Software,3.6,444,24
+1649,Kidzee,4.2,443,45
+1650,Pyramid IT Consulting,3.2,443,46
+1651,Ameriprise Financial,3.8,442,104
+1652,IL&FS Engineering and Construction,4.6,442,59
+1653,VRL Logistics,3.9,442,35
+1654,Nihilent,3.7,442,66
+1655,Stock Holding Corporation of India,3.5,442,47
+1656,Tekwissen,4.8,442,22
+1657,Praj Industries,4.3,441,66
+1658,Apple,4.3,441,52
+1659,Ather Energy,4.1,441,37
+1660,Ministry of Defence,4.5,441,62
+1661,Tracxn,3.2,441,36
+1662,Infor Global Solution,4.1,440,73
+1663,Ziqitza Health Care,4.1,440,80
+1664,Prama Hikvision India,3.6,440,41
+1665,Amber Enterprises India,3.9,440,43
+1666,Magneti Marelli Motherson Auto System,3.7,440,64
+1667,NxtWave,4.0,440,14
+1668,Technip Energies,4.1,440,48
+1669,Talentpro,4.0,439,50
+1670,Becton Dickinson,4.1,439,52
+1671,Airports Authority of India,4.4,439,62
+1672,Hindware,4.1,439,41
+1673,VDart,4.5,439,28
+1674,ASG Eye Hospital,3.9,439,41
+1675,B. G. Shirke Construction Technology,4.3,438,87
+1676,Bristlecone,3.7,438,59
+1677,Pennar Industries,3.7,438,64
+1678,Orient Craft,3.7,438,64
+1679,CompuCom,4.0,438,63
+1680,Sintex-bapl,3.8,438,67
+1681,Colt Technology Services,4.4,438,87
+1682,B. G. Shirke Construction Technology,4.3,438,87
+1683,Thryve Digital,4.1,438,60
+1684,BharatMatrimony.com,3.9,437,32
+1685,Vikram Solar,3.9,437,56
+1686,Bridgestone,4.1,436,61
+1687,ITC Limited Foods Division,4.0,436,60
+1688,Royaloak Incorporation,4.0,436,18
+1689,NBTC GROUP,3.6,436,65
+1690,Ultimate Kronos Group,3.6,436,57
+1691,Maxgen Technologies,4.6,435,127
+1692,Lenovo,4.2,435,61
+1693,Ferrero,3.9,435,66
+1694,Macawber Beekay,4.1,434,66
+1695,Delta Electronics,4.0,434,44
+1696,Collegedunia,3.1,434,34
+1697,Recpdcl.ltd,4.0,434,45
+1698,Dodla Dairy,4.3,434,57
+1699,Sulekha.com,4.2,434,47
+1700,Amar Ujala,4.0,434,53
+1701,PTC,4.2,433,65
+1702,LIC Housing Finance,4.1,432,33
+1703,Corteva Agriscience,4.4,432,58
+1704,Vedang Cellular Services,4.1,432,35
+1705,Godrej Industries,4.2,432,68
+1706,EaseMyTrip.com,4.0,432,217
+1707,Vasudha Pharma Chem,3.8,431,64
+1708,ZTE Corporation,4.0,431,67
+1709,Paras Dairy,3.6,431,53
+1710,Saudi Binladin Group,4.2,431,69
+1711,Maini Precision Products,3.6,431,42
+1712,LG Soft India,3.5,431,69
+1713,Practo,3.2,431,68
+1714,Cpf India,4.2,431,58
+1715,Nucleus Software Exports,3.8,430,79
+1716,BSCPL Infrastructure,3.7,430,58
+1717,Dimension Data,4.3,430,41
+1718,Maharashtra State Electricity Distribution Company,4.2,430,42
+1719,Cuemath,3.9,430,87
+1720,Optimum Infosystem,3.4,430,25
+1721,Dishman Carbogen Amcis,3.8,430,36
+1722,B.L. Kashyap & Sons,4.0,429,54
+1723,Apollo Health and Lifestyle,4.3,429,51
+1724,Agrostar,4.1,429,69
+1725,PCBL Limited,3.9,428,50
+1726,Peel-works,4.1,427,34
+1727,Cairn Energy,4.2,427,62
+1728,Finastra,3.9,427,74
+1729,Almarai,4.4,427,65
+1730,L & W Constructions,3.7,427,42
+1731,NetConnectGlobal,3.5,426,27
+1732,Wockhardt Hospital,4.2,425,65
+1733,J K Fenner,3.9,425,47
+1734,Prince Pipes & Fittings,4.3,425,59
+1735,FCC Clutch,4.2,425,42
+1736,SLMG Beverages,4.0,425,32
+1737,Transport Corporation Of India,4.1,424,60
+1738,Blackberrys,4.1,424,50
+1739,Me n Moms,4.3,424,36
+1740,Data Entry,4.0,424,51
+1741,Hinduja Housing Finance,3.9,423,31
+1742,NJ India Invest,3.8,423,69
+1743,Bharat Gears,4.2,423,47
+1744,Suraksha Diagnostic,3.8,423,46
+1745,AI Airport Services,3.6,423,3
+1746,Toyota Industries Engine India,4.4,423,73
+1747,Enterprise Growth Accelerator,3.5,423,4
+1748,Gartner,4.2,423,34
+1749,S.K. Finance,4.1,422,16
+1750,Kajaria Ceramics,4.1,421,51
+1751,Oriental Structural Engineers,4.3,421,61
+1752,Glorious Insight,4.8,421,22
+1753,Tecnimont,3.8,420,62
+1754,Aurigo,4.8,420,164
+1755,Magus Customer Dialog,3.5,419,43
+1756,Manjushree Technopack,3.8,419,57
+1757,Bahwan Engineering,4.2,418,55
+1758,Spoton Logistics,4.5,418,61
+1759,Celebi Aviation Holding,4.1,418,1
+1760,Jayaswal Neco Industries,4.1,417,54
+1761,Texmo Industries,3.9,417,49
+1762,Blue Yonder,4.2,417,66
+1763,Turtlemint,3.6,416,30
+1764,Canon,4.2,416,63
+1765,Nelito System,3.5,416,41
+1766,SMC Global Securities,3.4,416,28
+1767,Boeing,4.0,416,70
+1768,Sudarshan Chemical Industries,3.7,415,58
+1769,RuralShores,4.1,415,64
+1770,Assystem,3.8,415,6
+1771,Moglix,3.6,415,51
+1772,CJ Darcl Logistics Limited,4.0,414,46
+1773,Alorica,3.2,414,26
+1774,CtrlS,3.7,414,90
+1775,IRB Infrastructure,4.2,414,59
+1776,WayCool Foods and Products,3.7,414,36
+1777,Chaayos,3.5,414,54
+1778,Advantmed,3.7,414,54
+1779,Heidelberg Cement,4.2,413,42
+1780,Autoliv,4.0,413,56
+1781,Riya Travel,3.8,413,40
+1782,EdgeVerve Systems,3.6,413,77
+1783,Hamilton Housewares,4.0,412,33
+1784,Vizag Steel,4.2,412,55
+1785,Ness Technologies,3.5,412,47
+1786,Damco Solutions,4.2,411,27
+1787,Schoolnet India,3.8,411,56
+1788,Herbalife International,4.1,411,49
+1789,Bahwan CyberTek,4.0,410,34
+1790,Cadbury,4.5,410,36
+1791,Pamac Finserve,3.7,410,--
+1792,Anlitiks,4.8,410,9
+1793,FinThrive,3.9,410,8
+1794,Continental,4.0,410,54
+1795,Gandhi Automations,3.9,409,111
+1796,Philips Innovation Campus,3.9,409,54
+1797,Marelli,3.8,409,73
+1798,Capco Technologies,3.7,409,53
+1799,Kirloskar Pneumatic,4.2,408,44
+1800,Al Turki Enterprises,3.7,408,50
+1801,DHL Global Forwarding,4.2,408,78
+1802,Westin,4.0,408,71
+1803,DeHaat,3.7,408,22
+1804,Pace Setters Business Solutions,3.3,408,43
+1805,AT&T,4.2,407,60
+1806,Etech Global Services,4.4,407,53
+1807,Craftsman Automation,3.9,406,58
+1808,Maersk Line,4.3,406,69
+1809,Baker Hughes,4.1,406,58
+1810,H & R Johnson,3.9,405,42
+1811,Nexdigm,3.4,405,16
+1812,RAK Ceramics,3.9,405,54
+1813,Monte Carlo,4.2,404,44
+1814,Perficient,3.7,404,34
+1815,RenewBuy,3.8,404,21
+1816,Ge T & D India,4.3,404,46
+1817,Radico Khaitan,4.0,403,36
+1818,Nagarjuna Fertilizers and Chemicals,4.0,403,55
+1819,Sayaji Hotels,4.3,403,74
+1820,Reshamandi,3.7,403,133
+1821,Williams Lea,3.9,403,47
+1822,Five-Star Business Finance,4.4,402,37
+1823,National Payments Corporation of India,3.9,402,40
+1824,Vijai Electricals,3.6,402,49
+1825,Mecon,3.9,402,37
+1826,iNurture Education Solutions,2.8,402,40
+1827,Hpl Electric & Power,3.6,402,26
+1828,Cashify,3.8,402,36
+1829,BMC Software,4.3,402,82
+1830,Ess Kay Fincorp,4.0,402,45
+1831,Super Smelters,4.0,401,54
+1832,Karvy DigiKonnect,3.0,401,29
+1833,Suroj Buildcon,4.2,401,55
+1834,CMC,4.2,400,41
+1835,Metro Group of Hospitals,3.8,399,4
+1836,Coats,4.0,399,46
+1837,Adarsh Credit Co-Operative Society,4.0,399,53
+1838,Vindhya Telelinks,4.1,399,31
+1839,CRYSTAL CROP PROTECTION,3.9,399,46
+1840,Roop Polymers,4.1,399,43
+1841,Jindal Poly Films,3.7,399,52
+1842,Hindusthan National Glass,3.8,399,41
+1843,Waaree Energies,3.9,399,48
+1844,TriGeo Technologies,3.3,398,39
+1845,URC Construction,3.6,398,34
+1846,Castrol,4.3,398,50
+1847,Netmeds.com,3.5,398,33
+1848,Bajaj Capital Insurance,3.8,398,45
+1849,JSW Paints,4.0,398,32
+1850,Karvy Data Management,3.1,398,--
+1851,Cyfuture,3.3,398,79
+1852,IDBI Intech Limited,3.7,397,51
+1853,Dr. Batras' Positive Health Clinic,3.5,397,34
+1854,N.C.L. Industries,3.9,397,40
+1855,TSYS|Total System Services,4.4,397,14
+1856,Efs Facilities Services,3.8,397,61
+1857,HBL Global,4.1,396,44
+1858,Satyam Auto Components,4.0,396,44
+1859,Sterling Holiday Resort,4.0,396,59
+1860,Toothsi,2.8,396,24
+1861,Axtria,3.4,396,75
+1862,Syrma Technology,4.2,395,49
+1863,Micron Electricals,4.0,395,30
+1864,Solara Active Pharma Sciences,3.8,395,58
+1865,Novotel Hotels,4.4,395,72
+1866,Trigent Software,3.8,395,43
+1867,Fena,4.2,394,45
+1868,Dineshchandra R Agarwal Infracon,4.2,394,36
+1869,Deloitte Digital,3.9,394,60
+1870,Indecomm Global Services,3.7,394,47
+1871,Larsen & Toubro Group,4.1,393,54
+1872,Carrier,3.9,393,45
+1873,Glenmark Life Sciences,3.8,393,47
+1874,BLK Super Speciality Hospital,4.1,393,40
+1875,Danfoss Industries,4.2,393,69
+1876,Wellness Forever Medicare,3.9,392,38
+1877,Scientific Publishing Services,3.9,392,50
+1878,TVS Eurogrip,3.8,392,34
+1879,Sasken,3.6,392,48
+1880,Leighton Contractors,4.1,391,62
+1881,Healthians,3.6,391,28
+1882,Electronica Finance,3.9,391,29
+1883,Usha Martin,4.2,390,57
+1884,Reliance Infrastructure,4.1,390,62
+1885,QHTalbros,3.7,390,53
+1886,South Indian Bank,3.7,390,36
+1887,Acadecraft,3.0,390,52
+1888,SIS Prosegur Holdings,3.8,390,43
+1889,Škoda Auto Volkswagen,4.3,390,47
+1890,Moser Baer,4.0,389,63
+1891,Reliance Capital,4.1,389,76
+1892,Inspirisys Solution,4.0,389,27
+1893,Welspun Corp,4.1,389,44
+1894,North East Small Finance Bank,4.0,389,43
+1895,British Council,3.8,388,56
+1896,Jorie Healthcare,4.6,388,13
+1897,Emerson Electric Co.,4.2,388,44
+1898,Einfochips,3.6,388,56
+1899,Jiva Ayurvedic Pharmacy,3.8,388,52
+1900,Torry Harris Integration Solutions,3.9,387,51
+1901,Tata Power Solar,4.3,387,36
+1902,S P Singla Constructions,3.8,387,45
+1903,smartData Enterprises,3.5,386,41
+1904,QUICK HEAL TECHNOLOGIES,3.8,386,54
+1905,Dr. Reddy's Foundation,4.1,386,80
+1906,Cvent,3.5,386,57
+1907,IIFL Home Finance,4.0,386,--
+1908,Universal Sompo General Insurance,3.8,385,42
+1909,Sulzer,3.8,385,66
+1910,NLC,4.5,385,25
+1911,Carlsberg,4.3,385,59
+1912,Tuaman Engineering,4.2,385,41
+1913,Sarovar Hotels & Resorts,4.4,384,60
+1914,Onshore Construction,3.9,384,49
+1915,RapiPay,4.1,384,27
+1916,Lite Bite Foods,4.5,384,51
+1917,Otsuka Pharmaceutical India Private Limited,4.2,384,69
+1918,NICE,3.8,384,75
+1919,Navin Fluorine International,4.0,383,47
+1920,Razorpay,3.8,383,46
+1921,Value Point Systems,3.8,382,31
+1922,Ramkrishna Forgings,3.7,382,56
+1923,Transrail Lighting,4.0,382,49
+1924,GD Goenka Public School,3.9,381,46
+1925,RealPage,3.8,381,53
+1926,FMC,4.2,381,51
+1927,SG Analytics,3.6,380,52
+1928,Global Autotech,4.0,380,46
+1929,Paramount Health Services Tpa,3.8,380,37
+1930,Baazar Kolkata,4.3,380,16
+1931,Bharat Biotech International,3.1,380,39
+1932,Satyam Venture Engineering Services,3.9,379,29
+1933,Flipkart Logistics,4.1,379,3
+1934,Acme Generics LLP,4.4,379,31
+1935,Excitel Broadband,3.8,378,27
+1936,Virtual Employee,3.4,378,53
+1937,Wakefit,4.1,378,29
+1938,Venky's,3.7,378,31
+1939,DBG Technology,4.0,378,39
+1940,Cotiviti,4.0,378,56
+1941,Koch Business Solutions,3.6,378,48
+1942,ExxonMobil,3.8,377,63
+1943,Glaze Trading India,4.0,377,54
+1944,Serum Institute of India,4.3,376,62
+1945,Axiscades,3.3,376,38
+1946,Impetus Technologies,3.7,376,56
+1947,McCain Foods,4.2,376,48
+1948,Sanghi Industries,3.7,375,52
+1949,F1 Info Solutions Services,3.9,375,42
+1950,Uppcl,4.0,375,38
+1951,ManipalCigna Health Insurance,4.0,375,43
+1952,Pearson Education India,4.2,375,52
+1953,ThoughtWorks,3.9,374,48
+1954,Pepperfry,3.4,374,44
+1955,Mahanagar Gas,4.2,374,47
+1956,Sapphire Foods India,3.9,374,52
+1957,Wissen Technology,4.0,374,81
+1958,Kokilaben Dhirubhai Ambani Hospital,3.9,374,35
+1959,Prestige Group,4.3,373,51
+1960,India Post,3.8,373,51
+1961,Alight Solutions,4.0,373,55
+1962,Google Operations Center,3.6,373,47
+1963,Gainwell Commosales,4.2,373,52
+1964,Lakme,4.2,373,49
+1965,Emaar India Limited,3.7,372,39
+1966,TTK Healthcare,4.2,372,58
+1967,Amrit Cement,4.1,372,32
+1968,Ciena,4.5,372,61
+1969,Andritz Hydro Location India,3.8,372,49
+1970,Allied Blenders & Distillers,4.1,372,35
+1971,Pathkind Diagnostics Private Limited,4.0,372,49
+1972,Mavenir Systems,3.8,372,50
+1973,Rashmi Group,3.8,371,43
+1974,Bridgestone India Automotive Products,4.3,371,54
+1975,Suprajit Engineering,3.8,371,54
+1976,IDP Education Limited,3.9,370,51
+1977,Vijay Nirman Company,3.6,370,56
+1978,Central Bank of India,3.9,370,37
+1979,Surin Automotive,3.7,370,31
+1980,Giesecke & Devrient,4.0,370,68
+1981,ANAROCK Property Consultants,3.9,370,33
+1982,Aptiv,3.6,370,51
+1983,R.S. Infraprojects,4.0,369,64
+1984,Maharashtra Seamless,3.7,369,39
+1985,Hero Cycles,3.6,369,36
+1986,Inspira Enterprise India Limited,3.8,369,48
+1987,Celebal Technologies,2.6,369,14
+1988,Consulting Engineers Group,4.3,369,38
+1989,Cox & Kings,3.9,368,43
+1990,Tata International,3.8,368,64
+1991,Iron Mountain Inc,3.9,368,50
+1992,Marble Box,4.3,368,32
+1993,Gujarat Heavy Chemicals,4.1,368,58
+1994,Wood Group,4.1,368,27
+1995,Yokohama,3.8,368,64
+1996,Swastika Investmart,4.4,367,13
+1997,Krsnaa Diagnostics,4.0,367,35
+1998,MAHLE Behr India,4.0,367,65
+1999,Blackrock,3.9,367,67
